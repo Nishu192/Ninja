@@ -1,0 +1,2228 @@
+[ INFO ] 2023-12-01 11:36:40 - User open the browser 
+[ INFO ] 2023-12-01 11:36:42 - User enter the url 
+[ INFO ] 2023-12-01 11:36:43 - User is on the first page  
+[ INFO ] 2023-12-01 11:36:43 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 11:36:43 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 11:36:44 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 11:36:44 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 11:36:44 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 11:36:45 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 11:36:45 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 11:36:45 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 11:36:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:45 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 11:36:45 - User is on sign in page 
+[ INFO ] 2023-12-01 11:36:45 - User see Register link 
+[ INFO ] 2023-12-01 11:36:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:45 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 11:36:46 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 11:36:46 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:46 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 11:36:46 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 11:36:46 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:47 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 11:36:47 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 11:36:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:47 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 11:36:47 - The user sees an error message  
+[ INFO ] 2023-12-01 11:36:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:48 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 11:36:48 - The user sees an error message  
+[ INFO ] 2023-12-01 11:36:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:49 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 11:36:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 11:36:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 11:36:50 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 11:36:50 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 11:36:50 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 11:36:50 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 11:36:50 - User is on the DS page 
+[ INFO ] 2023-12-01 11:36:51 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 11:36:51 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 11:36:51 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 11:36:51 - User is on the Python Editor 
+[ INFO ] 2023-12-01 11:36:57 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 11:51:00 - User open the browser 
+[ INFO ] 2023-12-01 11:51:02 - User enter the url 
+[ INFO ] 2023-12-01 11:51:02 - User is on the first page  
+[ INFO ] 2023-12-01 11:51:03 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 11:51:03 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 11:51:03 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 11:51:04 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 11:51:04 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 11:51:04 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 11:51:04 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 11:51:04 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 21:32:47 - User open the browser 
+[ INFO ] 2023-12-01 21:32:48 - User enter the url 
+[ INFO ] 2023-12-01 21:32:48 - User is on the first page  
+[ INFO ] 2023-12-01 21:32:48 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 21:32:48 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 21:32:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 21:32:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 21:32:49 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 21:32:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 21:32:49 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 21:32:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 21:32:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:49 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 21:32:49 - User is on sign in page 
+[ INFO ] 2023-12-01 21:32:49 - User see Register link 
+[ INFO ] 2023-12-01 21:32:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:49 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 21:32:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 21:32:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:49 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 21:32:49 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 21:32:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:49 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 21:32:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 21:32:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:50 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 21:32:50 - The user sees an error message  
+[ INFO ] 2023-12-01 21:32:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:51 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 21:32:51 - The user sees an error message  
+[ INFO ] 2023-12-01 21:32:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:51 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 21:32:51 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 21:32:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 21:32:51 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 21:32:51 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 21:32:51 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 21:32:52 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 21:32:52 - User is on the DS page 
+[ INFO ] 2023-12-01 21:32:52 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 21:32:52 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 21:32:52 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 21:32:52 - User is on the Python Editor 
+[ INFO ] 2023-12-01 21:32:55 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 21:32:55 - user does not find any practice problems 
+[ INFO ] 2023-12-01 22:24:47 - User open the browser 
+[ INFO ] 2023-12-01 22:24:47 - User enter the url 
+[ INFO ] 2023-12-01 22:24:47 - User is on the first page  
+[ INFO ] 2023-12-01 22:24:47 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:24:47 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:24:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:24:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:24:48 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 22:24:48 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:24:48 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 22:24:48 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:24:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:48 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:24:48 - User is on sign in page 
+[ INFO ] 2023-12-01 22:24:48 - User see Register link 
+[ INFO ] 2023-12-01 22:24:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:48 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:24:48 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:24:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:48 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:24:48 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:24:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:49 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:24:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:24:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:49 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:24:49 - The user sees an error message  
+[ INFO ] 2023-12-01 22:24:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:49 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:24:49 - The user sees an error message  
+[ INFO ] 2023-12-01 22:24:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:49 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:24:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:24:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:24:50 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:24:50 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 22:24:50 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:24:50 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 22:24:50 - User is on the DS page 
+[ INFO ] 2023-12-01 22:24:50 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 22:24:50 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 22:24:50 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:24:50 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:24:53 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 22:24:53 - user does not find any practice problems 
+[ INFO ] 2023-12-01 22:24:53 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:24:53 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 22:24:53 - User is on the Array page 
+[ INFO ] 2023-12-01 22:24:54 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 22:24:54 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 22:24:54 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 22:24:54 - User is on Python Editor 
+[ INFO ] 2023-12-01 22:24:55 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 22:24:56 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 22:24:56 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 22:24:56 - User is on Python Editor 
+[ INFO ] 2023-12-01 22:24:58 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 22:24:58 - User is on Basic Operations page 
+[ INFO ] 2023-12-01 22:24:58 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-01 22:24:58 - User is on Python Editor 
+[ INFO ] 2023-12-01 22:24:59 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-01 22:24:59 - User is on Applications of Array page 
+[ INFO ] 2023-12-01 22:24:59 - User clicks Practice Questions link 
+[ INFO ] 2023-12-01 22:25:00 - User is on practice page 
+[ INFO ] 2023-12-01 22:25:00 - User clicks array  link 
+[ INFO ] 2023-12-01 22:25:00 - User is on Python Editor page 
+[ INFO ] 2023-12-01 22:25:01 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-01 22:25:01 - User is on Python Editor page 
+[ INFO ] 2023-12-01 22:25:03 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-01 22:25:03 - User is on Python Editor page 
+[ INFO ] 2023-12-01 22:25:05 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-01 22:25:05 - User is on Python Editor page 
+[ INFO ] 2023-12-01 22:36:52 - User open the browser 
+[ INFO ] 2023-12-01 22:36:52 - User open the browser 
+[ INFO ] 2023-12-01 22:36:53 - User enter the url 
+[ INFO ] 2023-12-01 22:36:53 - User enter the url 
+[ INFO ] 2023-12-01 22:36:53 - User is on the first page  
+[ INFO ] 2023-12-01 22:36:53 - User is on the first page  
+[ INFO ] 2023-12-01 22:36:53 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:36:53 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:36:53 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:36:53 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:36:53 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:36:53 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:36:53 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:36:53 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:36:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:54 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:36:54 - User is on sign in page 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:54 - User see Register link 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:36:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:36:54 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:54 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 22:36:54 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:36:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:55 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 22:36:55 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:36:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:36:55 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:36:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:55 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:36:55 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:36:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:36:55 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:36:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:55 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:36:56 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:36:56 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:56 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:36:56 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:36:56 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:36:56 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:36:56 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:36:56 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:36:56 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:36:56 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:36:56 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:36:56 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:36:56 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:36:58 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:36:59 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:37:51 - User open the browser 
+[ INFO ] 2023-12-01 22:37:51 - User open the browser 
+[ INFO ] 2023-12-01 22:37:51 - User enter the url 
+[ INFO ] 2023-12-01 22:37:51 - User enter the url 
+[ INFO ] 2023-12-01 22:37:51 - User is on the first page  
+[ INFO ] 2023-12-01 22:37:51 - User is on the first page  
+[ INFO ] 2023-12-01 22:37:52 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:37:52 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:37:52 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:37:52 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:37:52 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:37:52 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:37:53 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:37:53 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:53 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:37:53 - User is on sign in page 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:53 - User see Register link 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:53 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 22:37:53 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:37:53 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:53 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:53 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:53 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 22:37:54 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:37:54 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:54 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:54 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 22:37:54 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:37:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:54 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 22:37:54 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:37:54 - The user sees an error message  
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:54 - The user sees an error message  
+[ INFO ] 2023-12-01 22:37:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:55 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:37:55 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:37:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:37:55 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:55 - The user sees an error message  
+[ INFO ] 2023-12-01 22:37:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:55 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:37:55 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:37:55 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:55 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:37:55 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:37:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:37:56 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:37:56 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:37:56 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:37:56 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:37:56 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:37:56 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:37:56 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:37:56 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:37:59 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:37:59 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:39:48 - User open the browser 
+[ INFO ] 2023-12-01 22:39:48 - User open the browser 
+[ INFO ] 2023-12-01 22:39:48 - User enter the url 
+[ INFO ] 2023-12-01 22:39:48 - User enter the url 
+[ INFO ] 2023-12-01 22:39:48 - User is on the first page  
+[ INFO ] 2023-12-01 22:39:48 - User is on the first page  
+[ INFO ] 2023-12-01 22:39:48 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:39:48 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:39:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:39:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:39:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:39:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:39:49 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:39:49 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:49 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:39:49 - User is on sign in page 
+[ INFO ] 2023-12-01 22:39:49 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:39:49 - User is on sign in page 
+[ INFO ] 2023-12-01 22:39:49 - User see Register link 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:49 - User see Register link 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:49 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 22:39:49 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:39:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:50 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 22:39:50 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:39:50 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:39:50 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:50 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:39:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:50 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 22:39:50 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:39:50 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:50 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:50 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:50 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 22:39:51 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message  
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message  
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:51 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:39:51 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message  
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message  
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:51 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:39:51 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:39:51 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:39:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:39:52 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:39:52 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:39:52 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:39:52 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:39:52 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:39:52 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:39:52 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:39:52 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:41:14 - User open the browser 
+[ INFO ] 2023-12-01 22:41:14 - User open the browser 
+[ INFO ] 2023-12-01 22:41:15 - User enter the url 
+[ INFO ] 2023-12-01 22:41:15 - User enter the url 
+[ INFO ] 2023-12-01 22:41:15 - User is on the first page  
+[ INFO ] 2023-12-01 22:41:15 - User is on the first page  
+[ INFO ] 2023-12-01 22:41:15 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:41:15 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:41:15 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:41:15 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:41:15 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:41:15 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:41:15 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:41:16 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:41:16 - User is on sign in page 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User see Register link 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:41:16 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:16 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:41:16 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:16 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:41:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 22:41:16 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:17 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 22:41:17 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message  
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message  
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:17 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:41:17 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message  
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:17 - The user sees an error message  
+[ INFO ] 2023-12-01 22:41:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:18 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:41:18 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:41:18 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:18 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 22:41:18 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:41:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:18 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:41:18 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:41:18 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:41:18 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:41:18 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:41:18 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:41:18 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:41:19 - User is on the Python Editor 
+[ INFO ] 2023-12-01 22:41:35 - User open the browser 
+[ INFO ] 2023-12-01 22:41:35 - User enter the url 
+[ INFO ] 2023-12-01 22:41:35 - User is on the first page  
+[ INFO ] 2023-12-01 22:41:35 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 22:41:35 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:41:36 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:42:28 - User open the browser 
+[ INFO ] 2023-12-01 22:42:28 - User enter the url 
+[ INFO ] 2023-12-01 22:42:28 - User is on the first page  
+[ INFO ] 2023-12-01 22:42:29 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:42:29 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:42:29 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:42:29 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:42:29 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 22:42:29 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:42:29 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 22:42:29 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:42:29 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:29 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:42:29 - User is on sign in page 
+[ INFO ] 2023-12-01 22:42:29 - User see Register link 
+[ INFO ] 2023-12-01 22:42:29 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:29 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:42:29 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:42:29 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:30 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:42:30 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:42:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:30 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:42:30 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:42:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:30 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:42:30 - The user sees an error message  
+[ INFO ] 2023-12-01 22:42:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:30 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:42:30 - The user sees an error message  
+[ INFO ] 2023-12-01 22:42:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:31 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 22:42:31 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:42:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:31 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 22:42:31 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 22:42:31 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 22:42:31 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 22:42:31 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 22:42:43 - User open the browser 
+[ INFO ] 2023-12-01 22:42:43 - User enter the url 
+[ INFO ] 2023-12-01 22:42:43 - User is on the first page  
+[ INFO ] 2023-12-01 22:42:43 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 22:42:43 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 22:42:44 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 22:42:44 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 22:42:44 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 22:42:44 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:42:44 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 22:42:44 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 22:42:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:44 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 22:42:44 - User is on sign in page 
+[ INFO ] 2023-12-01 22:42:44 - User see Register link 
+[ INFO ] 2023-12-01 22:42:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:44 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 22:42:44 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:42:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:44 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 22:42:44 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 22:42:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:45 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 22:42:45 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 22:42:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:45 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 22:42:45 - The user sees an error message  
+[ INFO ] 2023-12-01 22:42:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:45 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 22:42:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 22:42:45 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:02:45 - User open the browser 
+[ INFO ] 2023-12-01 23:02:46 - User enter the url 
+[ INFO ] 2023-12-01 23:02:46 - User is on the first page  
+[ INFO ] 2023-12-01 23:02:46 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:02:46 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:02:46 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:02:46 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:02:46 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:02:46 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:02:47 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:02:47 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:02:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:47 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:02:47 - User is on sign in page 
+[ INFO ] 2023-12-01 23:02:47 - User see Register link 
+[ INFO ] 2023-12-01 23:02:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:47 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:02:47 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:02:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:47 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:02:47 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:02:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:47 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:02:47 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:02:47 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:48 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:02:48 - The user sees an error message  
+[ INFO ] 2023-12-01 23:02:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:48 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:02:48 - The user sees an error message  
+[ INFO ] 2023-12-01 23:02:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:48 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:02:48 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:02:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:02:49 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:02:49 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:02:49 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:02:49 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:02:49 - User is on the DS page 
+[ INFO ] 2023-12-01 23:02:49 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:02:49 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:02:49 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:02:49 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:02:52 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 23:02:52 - user does not find any practice problems 
+[ INFO ] 2023-12-01 23:02:52 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:02:52 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 23:02:52 - User is on the Array page 
+[ INFO ] 2023-12-01 23:02:53 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 23:02:53 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 23:02:53 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 23:02:53 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:02:55 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 23:02:55 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 23:02:55 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 23:02:55 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:02:56 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 23:02:56 - User is on Basic Operations page 
+[ INFO ] 2023-12-01 23:02:57 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-01 23:02:57 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:02:58 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-01 23:02:58 - User is on Applications of Array page 
+[ INFO ] 2023-12-01 23:02:58 - User clicks Practice Questions link 
+[ INFO ] 2023-12-01 23:02:59 - User is on practice page 
+[ INFO ] 2023-12-01 23:02:59 - User clicks array  link 
+[ INFO ] 2023-12-01 23:02:59 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:03:00 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-01 23:03:00 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:03:02 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-01 23:03:02 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:03:04 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-01 23:03:04 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:03:17 - User open the browser 
+[ INFO ] 2023-12-01 23:03:17 - User enter the url 
+[ INFO ] 2023-12-01 23:03:17 - User is on the first page  
+[ INFO ] 2023-12-01 23:03:17 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:03:17 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:03:17 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:03:17 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:03:18 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:03:18 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:03:18 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:03:18 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:03:18 - User is on sign in page 
+[ INFO ] 2023-12-01 23:03:18 - User see Register link 
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:03:18 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:03:18 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:03:18 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:03:18 - The user sees an error message  
+[ INFO ] 2023-12-01 23:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:18 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:03:19 - The user sees an error message  
+[ INFO ] 2023-12-01 23:03:19 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:19 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:03:19 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:03:19 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:03:19 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:03:19 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:03:19 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:03:19 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:03:19 - User is on the DS page 
+[ INFO ] 2023-12-01 23:03:20 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:03:20 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:03:20 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:03:20 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:05:47 - User open the browser 
+[ INFO ] 2023-12-01 23:05:47 - User enter the url 
+[ INFO ] 2023-12-01 23:05:47 - User is on the first page  
+[ INFO ] 2023-12-01 23:05:48 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:05:48 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:05:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:05:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:05:48 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:05:48 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:05:48 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:05:48 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:05:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:48 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:05:48 - User is on sign in page 
+[ INFO ] 2023-12-01 23:05:48 - User see Register link 
+[ INFO ] 2023-12-01 23:05:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:48 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:05:48 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:05:48 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:49 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:05:49 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:05:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:49 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:05:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:05:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:49 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:05:49 - The user sees an error message  
+[ INFO ] 2023-12-01 23:05:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:49 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:05:49 - The user sees an error message  
+[ INFO ] 2023-12-01 23:05:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:49 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:05:50 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:05:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:05:50 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:05:50 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:05:50 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:05:50 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:05:50 - User is on the DS page 
+[ INFO ] 2023-12-01 23:05:50 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:05:50 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:05:50 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:05:50 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:06:05 - User open the browser 
+[ INFO ] 2023-12-01 23:06:05 - User enter the url 
+[ INFO ] 2023-12-01 23:06:06 - User is on the first page  
+[ INFO ] 2023-12-01 23:06:06 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:06:06 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:06:06 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:06:06 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:06:06 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:06:06 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:06:06 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:06:06 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:06:06 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:06:07 - User is on sign in page 
+[ INFO ] 2023-12-01 23:06:07 - User see Register link 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:06:07 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:06:07 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:06:07 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:06:07 - The user sees an error message  
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:07 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:06:21 - User open the browser 
+[ INFO ] 2023-12-01 23:06:30 - User enter the url 
+[ INFO ] 2023-12-01 23:06:30 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:06:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:06:31 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:07:01 - User open the browser 
+[ INFO ] 2023-12-01 23:07:01 - User enter the url 
+[ INFO ] 2023-12-01 23:07:01 - User is on the first page  
+[ INFO ] 2023-12-01 23:07:02 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:07:02 - User open the browser 
+[ INFO ] 2023-12-01 23:07:02 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:07:02 - User enter the url 
+[ INFO ] 2023-12-01 23:07:02 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:07:02 - User is on the first page  
+[ INFO ] 2023-12-01 23:07:02 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:07:03 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:07:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:07:03 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:07:03 - User clicks getstarted button of First page 
+[ WARN ] 2023-12-01 23:07:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:07:03 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:03 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:07:03 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:07:03 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:07:04 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:07:04 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:07:04 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:07:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:04 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:07:04 - User is on sign in page 
+[ INFO ] 2023-12-01 23:07:04 - User see Register link 
+[ INFO ] 2023-12-01 23:07:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:04 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:07:04 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:07:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:05 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:07:19 - User open the browser 
+[ INFO ] 2023-12-01 23:07:20 - User enter the url 
+[ INFO ] 2023-12-01 23:07:20 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:07:20 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:10:04 - User open the browser 
+[ INFO ] 2023-12-01 23:10:04 - User enter the url 
+[ INFO ] 2023-12-01 23:10:04 - User is on the first page  
+[ INFO ] 2023-12-01 23:10:04 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:10:04 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:10:04 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:10:04 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:10:05 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:10:05 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:10:05 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:10:05 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:10:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:05 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:10:05 - User is on sign in page 
+[ INFO ] 2023-12-01 23:10:05 - User see Register link 
+[ INFO ] 2023-12-01 23:10:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:05 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:10:05 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:10:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:05 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:10:05 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:10:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:05 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:10:05 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:10:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:06 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:10:06 - The user sees an error message  
+[ INFO ] 2023-12-01 23:10:06 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:06 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:10:06 - The user sees an error message  
+[ INFO ] 2023-12-01 23:10:06 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:06 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:10:06 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:10:06 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:07 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:10:07 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:10:07 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:10:07 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:10:07 - User is on the DS page 
+[ INFO ] 2023-12-01 23:10:07 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:10:07 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:10:07 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:10:07 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:10:10 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 23:10:10 - user does not find any practice problems 
+[ INFO ] 2023-12-01 23:10:10 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:10:10 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 23:10:10 - User is on the Array page 
+[ INFO ] 2023-12-01 23:10:10 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 23:10:10 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 23:10:10 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 23:10:10 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:10:12 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 23:10:12 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 23:10:12 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 23:10:12 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:10:14 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 23:10:14 - User is on Basic Operations page 
+[ INFO ] 2023-12-01 23:10:14 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-01 23:10:14 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:10:16 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-01 23:10:16 - User is on Applications of Array page 
+[ INFO ] 2023-12-01 23:10:16 - User clicks Practice Questions link 
+[ INFO ] 2023-12-01 23:10:16 - User is on practice page 
+[ INFO ] 2023-12-01 23:10:16 - User clicks array  link 
+[ INFO ] 2023-12-01 23:10:16 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:10:18 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-01 23:10:18 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:10:31 - User open the browser 
+[ INFO ] 2023-12-01 23:10:31 - User enter the url 
+[ INFO ] 2023-12-01 23:10:31 - User is on the first page  
+[ INFO ] 2023-12-01 23:10:33 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:10:33 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:10:33 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:12:19 - User open the browser 
+[ INFO ] 2023-12-01 23:12:19 - User enter the url 
+[ INFO ] 2023-12-01 23:12:19 - User is on the first page  
+[ INFO ] 2023-12-01 23:12:19 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:12:19 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:12:20 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:12:20 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:12:20 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:12:20 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:12:20 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:12:20 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:12:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:20 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:12:20 - User is on sign in page 
+[ INFO ] 2023-12-01 23:12:20 - User see Register link 
+[ INFO ] 2023-12-01 23:12:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:20 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:12:20 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:12:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:20 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:12:20 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:12:20 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:21 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:12:21 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:12:21 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:21 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:12:21 - The user sees an error message  
+[ INFO ] 2023-12-01 23:12:21 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:21 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:12:21 - The user sees an error message  
+[ INFO ] 2023-12-01 23:12:21 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:21 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:12:21 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:13:28 - User open the browser 
+[ INFO ] 2023-12-01 23:13:28 - User open the browser 
+[ INFO ] 2023-12-01 23:13:28 - User enter the url 
+[ INFO ] 2023-12-01 23:13:28 - User enter the url 
+[ INFO ] 2023-12-01 23:13:28 - User is on the first page  
+[ INFO ] 2023-12-01 23:13:28 - User is on the first page  
+[ INFO ] 2023-12-01 23:13:29 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:13:29 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:13:29 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:13:29 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:13:29 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:13:29 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:13:29 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:13:29 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:13:29 - User click any option of dropdown without sign in 
+[ INFO ] 2023-12-01 23:13:29 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:13:30 - User sees an warning message for signing in 
+[ WARN ] 2023-12-01 23:13:30 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:13:30 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:13:30 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:13:30 - User sees an warning message for signing in 
+[ WARN ] 2023-12-01 23:13:30 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:13:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:30 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:13:30 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:13:30 - User is on sign in page 
+[ INFO ] 2023-12-01 23:13:30 - User is on sign in page 
+[ INFO ] 2023-12-01 23:13:30 - User see Register link 
+[ INFO ] 2023-12-01 23:13:30 - User see Register link 
+[ INFO ] 2023-12-01 23:13:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:30 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 23:13:30 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:13:31 - The user sees an error message below Username textbox 
+[ WARN ] 2023-12-01 23:13:31 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:31 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 23:13:31 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:13:31 - The error message appears below Pwd textbox 
+[ WARN ] 2023-12-01 23:13:31 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:13:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:32 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 23:13:32 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:13:32 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:32 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:13:32 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:32 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:32 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 23:13:32 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:13:32 - The user sees an error message  
+[ WARN ] 2023-12-01 23:13:32 - The user sees an error message  
+[ INFO ] 2023-12-01 23:13:32 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:32 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:33 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 23:13:33 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:13:33 - The user sees an error message  
+[ WARN ] 2023-12-01 23:13:33 - The user sees an error message  
+[ INFO ] 2023-12-01 23:13:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:33 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 23:13:33 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:13:33 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:33 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:13:33 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:33 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:34 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:13:34 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:13:34 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:13:34 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:13:34 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:13:34 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:13:34 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:13:34 - User is on the DS page 
+[ INFO ] 2023-12-01 23:13:34 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:13:35 - User is on the DS page 
+[ INFO ] 2023-12-01 23:13:35 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:13:35 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:13:35 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:13:35 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:13:35 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:13:35 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:13:35 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:13:35 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:13:54 - User open the browser 
+[ INFO ] 2023-12-01 23:13:55 - User enter the url 
+[ INFO ] 2023-12-01 23:13:55 - User is on the first page  
+[ INFO ] 2023-12-01 23:13:56 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:13:56 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:13:56 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:13:56 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:13:56 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:13:56 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:13:56 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:13:56 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:13:56 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:56 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:13:56 - User is on sign in page 
+[ INFO ] 2023-12-01 23:13:56 - User see Register link 
+[ INFO ] 2023-12-01 23:13:56 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:56 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:13:56 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:56 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:57 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:13:57 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:13:57 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:57 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:13:57 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:57 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:57 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:13:57 - The user sees an error message  
+[ INFO ] 2023-12-01 23:13:57 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:57 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:13:57 - The user sees an error message  
+[ INFO ] 2023-12-01 23:13:57 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:58 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:13:58 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:13:58 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:13:58 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:13:58 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:13:58 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:13:58 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:13:58 - User is on the DS page 
+[ INFO ] 2023-12-01 23:13:59 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:13:59 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:13:59 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:13:59 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:14:00 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 23:14:01 - user does not find any practice problems 
+[ INFO ] 2023-12-01 23:14:01 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:14:01 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 23:14:01 - User is on the Array page 
+[ INFO ] 2023-12-01 23:14:01 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 23:14:01 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 23:14:01 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 23:14:01 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:14:03 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 23:14:03 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 23:14:03 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 23:14:03 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:14:05 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 23:14:05 - User is on Basic Operations page 
+[ INFO ] 2023-12-01 23:14:05 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-01 23:14:05 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:14:07 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-01 23:14:07 - User is on Applications of Array page 
+[ INFO ] 2023-12-01 23:14:07 - User clicks Practice Questions link 
+[ INFO ] 2023-12-01 23:14:07 - User is on practice page 
+[ INFO ] 2023-12-01 23:14:07 - User clicks array  link 
+[ INFO ] 2023-12-01 23:14:07 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:14:09 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-01 23:14:09 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:14:10 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-01 23:14:10 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:14:12 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-01 23:14:12 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:14:45 - User open the browser 
+[ INFO ] 2023-12-01 23:14:45 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:14:45 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:15:01 - User open the browser 
+[ INFO ] 2023-12-01 23:15:01 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:01 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:15:10 - User open the browser 
+[ INFO ] 2023-12-01 23:15:10 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:10 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:15:57 - User open the browser 
+[ INFO ] 2023-12-01 23:15:58 - User enter the url 
+[ INFO ] 2023-12-01 23:15:58 - User is on the first page  
+[ INFO ] 2023-12-01 23:15:58 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:15:58 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:15:59 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:15:59 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:15:59 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:15:59 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:15:59 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:15:59 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:15:59 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:59 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:15:59 - User is on sign in page 
+[ INFO ] 2023-12-01 23:15:59 - User see Register link 
+[ INFO ] 2023-12-01 23:15:59 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:59 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:15:59 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:15:59 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:15:59 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:15:59 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:15:59 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:00 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:16:00 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:16:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:00 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 23:16:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:00 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:16:12 - User open the browser 
+[ INFO ] 2023-12-01 23:16:12 - User enter the url 
+[ INFO ] 2023-12-01 23:16:12 - User is on the first page  
+[ INFO ] 2023-12-01 23:16:12 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:16:12 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:16:13 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:16:13 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:16:13 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:16:13 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:16:13 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:16:13 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:16:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:13 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:16:13 - User is on sign in page 
+[ INFO ] 2023-12-01 23:16:13 - User see Register link 
+[ INFO ] 2023-12-01 23:16:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:13 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:16:13 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:16:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:13 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 23:16:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:14 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:14 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:14 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:14 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:14 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:16:47 - User open the browser 
+[ INFO ] 2023-12-01 23:16:48 - User enter the url 
+[ INFO ] 2023-12-01 23:16:48 - User is on the first page  
+[ INFO ] 2023-12-01 23:16:48 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:16:48 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:16:48 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:16:48 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:16:48 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:16:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:16:49 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:16:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:16:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:49 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:16:49 - User is on sign in page 
+[ INFO ] 2023-12-01 23:16:49 - User see Register link 
+[ INFO ] 2023-12-01 23:16:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:49 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:16:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:16:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:49 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:16:49 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:16:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:49 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:16:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:16:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:50 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 23:16:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:16:50 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:19:36 - User open the browser 
+[ INFO ] 2023-12-01 23:19:37 - User enter the url 
+[ INFO ] 2023-12-01 23:19:37 - User is on the first page  
+[ INFO ] 2023-12-01 23:19:37 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:19:37 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:19:37 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:19:37 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:19:38 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:19:38 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:19:38 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:19:38 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:19:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:38 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:19:38 - User is on sign in page 
+[ INFO ] 2023-12-01 23:19:38 - User see Register link 
+[ INFO ] 2023-12-01 23:19:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:38 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:19:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:19:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:38 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:19:38 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:19:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:38 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:19:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:19:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:39 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:19:39 - The user sees an error message  
+[ INFO ] 2023-12-01 23:19:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:39 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:19:39 - The user sees an error message  
+[ INFO ] 2023-12-01 23:19:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:39 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:19:39 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:19:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:19:40 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:19:40 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:19:40 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:19:40 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:19:40 - User is on the DS page 
+[ INFO ] 2023-12-01 23:19:40 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:19:40 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:19:40 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:19:40 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:19:43 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 23:19:43 - user does not find any practice problems 
+[ INFO ] 2023-12-01 23:19:43 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:19:43 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 23:19:43 - User is on the Array page 
+[ INFO ] 2023-12-01 23:19:43 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 23:19:43 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 23:19:43 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 23:19:43 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:19:45 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 23:19:45 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 23:19:45 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 23:19:45 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:19:47 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 23:19:59 - User open the browser 
+[ INFO ] 2023-12-01 23:20:00 - User enter the url 
+[ INFO ] 2023-12-01 23:20:00 - User is on the first page  
+[ INFO ] 2023-12-01 23:20:00 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:20:00 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:20:00 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:20:01 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:20:01 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:20:01 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:20:01 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:20:01 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:20:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:01 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:20:01 - User is on sign in page 
+[ INFO ] 2023-12-01 23:20:01 - User see Register link 
+[ INFO ] 2023-12-01 23:20:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:01 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:20:01 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:01 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 23:20:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:01 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:02 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:02 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:02 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:02 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:20:12 - User open the browser 
+[ INFO ] 2023-12-01 23:20:13 - User enter the url 
+[ INFO ] 2023-12-01 23:20:13 - User is on the first page  
+[ INFO ] 2023-12-01 23:20:13 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:20:13 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:13 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:14 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:14 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:20:26 - User open the browser 
+[ INFO ] 2023-12-01 23:20:27 - User enter the url 
+[ INFO ] 2023-12-01 23:20:27 - User is on the first page  
+[ INFO ] 2023-12-01 23:20:29 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:20:29 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:20:29 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:20:29 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:20:30 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:20:30 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:20:30 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:20:30 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:20:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:30 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:20:30 - User is on sign in page 
+[ INFO ] 2023-12-01 23:20:30 - User see Register link 
+[ INFO ] 2023-12-01 23:20:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:30 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:20:30 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:30 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:20:30 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:20:30 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:30 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:20:31 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:31 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:34 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:20:34 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:34 - User open the browser 
+[ INFO ] 2023-12-01 23:20:34 - User open the browser 
+[ INFO ] 2023-12-01 23:20:35 - User enter the url 
+[ INFO ] 2023-12-01 23:20:35 - User enter the url 
+[ INFO ] 2023-12-01 23:20:35 - User is on the first page  
+[ INFO ] 2023-12-01 23:20:36 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:20:36 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:36 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:20:36 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:20:36 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:20:37 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:20:37 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:20:37 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:20:37 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:20:37 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:37 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:20:37 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-01 23:20:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:37 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:20:37 - User is on sign in page 
+[ INFO ] 2023-12-01 23:20:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:37 - User see Register link 
+[ INFO ] 2023-12-01 23:20:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:37 - User clicks login button without entering any data 
+[ INFO ] 2023-12-01 23:20:38 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:20:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:38 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:20:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:38 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:20:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:38 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:20:38 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:20:38 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:20:38 - User is on the DS page 
+[ INFO ] 2023-12-01 23:20:38 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 23:20:39 - User clicks login button after entering username only 
+[ INFO ] 2023-12-01 23:20:39 - User clicks Time Complexity link 
+[ WARN ] 2023-12-01 23:20:39 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:20:39 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:20:39 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:20:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:39 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:20:39 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:20:39 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:20:39 - User clicks login btn after entering pwd 
+[ INFO ] 2023-12-01 23:20:40 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:20:40 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:40 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:20:40 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:20:40 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:40 - User clicks login button after entering invalid  and invalid data 
+[ INFO ] 2023-12-01 23:20:41 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:20:41 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:41 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:20:41 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:41 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:41 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 23:20:41 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:20:42 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:42 - User is on the DS Algo Introduction Page 
+[ WARN ] 2023-12-01 23:20:42 - The user sees an error message  
+[ INFO ] 2023-12-01 23:20:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:42 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 23:20:43 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:43 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:20:43 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:20:43 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:23:23 - User open the browser 
+[ INFO ] 2023-12-01 23:23:23 - User enter the url 
+[ INFO ] 2023-12-01 23:23:23 - User is on the first page  
+[ INFO ] 2023-12-01 23:23:26 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:23:26 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:23:26 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:23:26 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:23:26 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:23:26 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:23:26 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:23:26 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:23:26 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:26 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:23:26 - User is on sign in page 
+[ INFO ] 2023-12-01 23:23:26 - User see Register link 
+[ INFO ] 2023-12-01 23:23:26 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:27 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:23:27 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:27 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:27 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:23:27 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:23:27 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:27 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:23:27 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:27 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:27 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:23:27 - The user sees an error message  
+[ INFO ] 2023-12-01 23:23:27 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:27 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:23:27 - The user sees an error message  
+[ INFO ] 2023-12-01 23:23:27 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:28 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:23:28 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:28 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:23:28 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:23:28 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:23:28 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:23:28 - User is on the DS page 
+[ INFO ] 2023-12-01 23:23:29 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:23:29 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:23:29 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:23:29 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:23:32 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-01 23:23:32 - user does not find any practice problems 
+[ INFO ] 2023-12-01 23:23:32 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:23:32 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-01 23:23:32 - User is on the Array page 
+[ INFO ] 2023-12-01 23:23:32 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-01 23:23:32 - User is on - Arrays in Python 
+[ INFO ] 2023-12-01 23:23:32 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-01 23:23:32 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:23:34 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-01 23:23:34 - User is on Arrays Using List 
+[ INFO ] 2023-12-01 23:23:34 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-01 23:23:34 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:23:35 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-01 23:23:35 - User is on Basic Operations page 
+[ INFO ] 2023-12-01 23:23:36 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-01 23:23:36 - User is on Python Editor 
+[ INFO ] 2023-12-01 23:23:37 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-01 23:23:37 - User is on Applications of Array page 
+[ INFO ] 2023-12-01 23:23:38 - User clicks Practice Questions link 
+[ INFO ] 2023-12-01 23:23:38 - User is on practice page 
+[ INFO ] 2023-12-01 23:23:38 - User clicks array  link 
+[ INFO ] 2023-12-01 23:23:38 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:23:39 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-01 23:23:39 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:23:41 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-01 23:23:41 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:23:42 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-01 23:23:42 - User is on Python Editor page 
+[ INFO ] 2023-12-01 23:23:53 - User open the browser 
+[ INFO ] 2023-12-01 23:23:53 - User enter the url 
+[ INFO ] 2023-12-01 23:23:53 - User is on the first page  
+[ INFO ] 2023-12-01 23:23:53 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:23:53 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:23:53 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:23:53 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:23:54 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:23:54 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:23:54 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:23:54 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:54 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:23:54 - User is on sign in page 
+[ INFO ] 2023-12-01 23:23:54 - User see Register link 
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:54 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:23:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:54 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:23:54 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:54 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:23:54 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:54 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:23:54 - The user sees an error message  
+[ INFO ] 2023-12-01 23:23:54 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:55 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:23:55 - The user sees an error message  
+[ INFO ] 2023-12-01 23:23:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:55 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:23:55 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:23:55 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:23:55 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:23:55 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:23:55 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:23:55 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:23:56 - User is on the DS page 
+[ INFO ] 2023-12-01 23:23:56 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:23:56 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:23:56 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:23:56 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:24:36 - User open the browser 
+[ INFO ] 2023-12-01 23:24:37 - User enter the url 
+[ INFO ] 2023-12-01 23:24:37 - User is on the first page  
+[ INFO ] 2023-12-01 23:24:37 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:24:37 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:24:37 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:24:37 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:24:37 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:24:37 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:24:37 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:24:37 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:24:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:24:38 - User is on sign in page 
+[ INFO ] 2023-12-01 23:24:38 - User see Register link 
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:24:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:24:38 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:24:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:24:38 - The user sees an error message  
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:38 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:24:38 - The user sees an error message  
+[ INFO ] 2023-12-01 23:24:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:39 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:24:39 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:24:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:24:39 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-01 23:24:39 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-01 23:24:39 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-01 23:24:39 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-01 23:24:39 - User is on the DS page 
+[ INFO ] 2023-12-01 23:24:40 - User clicks Time Complexity link 
+[ INFO ] 2023-12-01 23:24:40 - User is on  Time Complexity page 
+[ INFO ] 2023-12-01 23:24:40 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:24:40 - User is on the Python Editor 
+[ INFO ] 2023-12-01 23:25:23 - User open the browser 
+[ INFO ] 2023-12-01 23:25:24 - User enter the url 
+[ INFO ] 2023-12-01 23:25:24 - User is on the first page  
+[ INFO ] 2023-12-01 23:25:24 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:25:24 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:25:24 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:25:25 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:25:25 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:25:25 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:25:25 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:25:25 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:25 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:26 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-01 23:25:34 - User open the browser 
+[ INFO ] 2023-12-01 23:25:34 - User enter the url 
+[ INFO ] 2023-12-01 23:25:34 - User is on the first page  
+[ INFO ] 2023-12-01 23:25:35 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-01 23:25:35 - User is on the intro page of DS 
+[ INFO ] 2023-12-01 23:25:35 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-01 23:25:35 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-01 23:25:35 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-01 23:25:35 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:25:35 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-01 23:25:35 - User sees an warning message for signing in 
+[ INFO ] 2023-12-01 23:25:35 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:36 - User clicks the Sign in link 
+[ INFO ] 2023-12-01 23:25:36 - User is on sign in page 
+[ INFO ] 2023-12-01 23:25:36 - User see Register link 
+[ INFO ] 2023-12-01 23:25:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:36 - User clicks login button without entering any data 
+[ WARN ] 2023-12-01 23:25:36 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:25:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:36 - User clicks login button after entering username only 
+[ WARN ] 2023-12-01 23:25:36 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-01 23:25:36 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:37 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-01 23:25:37 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-01 23:25:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:37 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-01 23:25:37 - The user sees an error message  
+[ INFO ] 2023-12-01 23:25:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:38 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-01 23:25:38 - The user sees an error message  
+[ INFO ] 2023-12-01 23:25:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:38 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-01 23:25:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-01 23:25:38 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:26:39 - User open the browser 
+[ INFO ] 2023-12-02 14:26:39 - User enter the url 
+[ INFO ] 2023-12-02 14:26:39 - User is on the first page  
+[ INFO ] 2023-12-02 14:26:40 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 14:26:40 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 14:26:40 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 14:26:40 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 14:26:40 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 14:26:40 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:26:40 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 14:26:40 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:26:40 - User clicks register link 
+[ INFO ] 2023-12-02 14:26:40 - User is on the registration page  
+[ INFO ] 2023-12-02 14:26:40 - User sees Login link on the page  
+[ INFO ] 2023-12-02 14:26:40 - User  clicks Register button with all fields empty  
+[ INFO ] 2023-12-02 14:26:40 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:26:41 - User  clicks Register button after entering Username with other fields empty  
+[ INFO ] 2023-12-02 14:26:41 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:26:41 - User  clicks Register button after entering Username  and password with Password Confirmation field empty 
+[ INFO ] 2023-12-02 14:26:41 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:26:41 - User clicks Register button after entering a username with spacebar characters other than digits and special char  
+[ ERROR] 2023-12-02 14:26:41 - The user is not able to see error msg after entering invalid data 
+[ ERROR] 2023-12-02 14:26:41 - User redirected to empty password textbox after entering only numeric data in pwd text box 
+[ INFO ] 2023-12-02 14:26:41 -  User clicks Register button after entering a password with numeric data 
+[ ERROR] 2023-12-02 14:26:41 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 14:26:41 -  User redirected to empty password confirmation textbox 
+[ INFO ] 2023-12-02 14:26:41 -  ser clicks Register button after entering a Password with characters less than eight 
+[ ERROR] 2023-12-02 14:26:41 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 14:26:42 - User clicks Register button after entering different passwords in Password and Password Confirmation fields 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:26:42 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:27:02 - User open the browser 
+[ INFO ] 2023-12-02 14:27:02 - User enter the url 
+[ INFO ] 2023-12-02 14:27:02 - User is on the first page  
+[ INFO ] 2023-12-02 14:27:02 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 14:27:02 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 14:27:02 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 14:27:02 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 14:27:03 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 14:27:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:27:03 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 14:27:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:27:03 - User clicks register link 
+[ INFO ] 2023-12-02 14:27:03 - User is on the registration page  
+[ INFO ] 2023-12-02 14:27:03 - User sees Login link on the page  
+[ INFO ] 2023-12-02 14:27:03 - User  clicks Register button with all fields empty  
+[ INFO ] 2023-12-02 14:27:03 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:27:03 - User  clicks Register button after entering Username with other fields empty  
+[ INFO ] 2023-12-02 14:27:03 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:27:03 - User  clicks Register button after entering Username  and password with Password Confirmation field empty 
+[ INFO ] 2023-12-02 14:27:03 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 14:27:04 - User clicks Register button after entering a username with spacebar characters other than digits and special char  
+[ ERROR] 2023-12-02 14:27:04 - The user is not able to see error msg after entering invalid data 
+[ ERROR] 2023-12-02 14:27:04 - User redirected to empty password textbox after entering only numeric data in pwd text box 
+[ INFO ] 2023-12-02 14:27:04 -  User clicks Register button after entering a password with numeric data 
+[ ERROR] 2023-12-02 14:27:04 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 14:27:04 -  User redirected to empty password confirmation textbox 
+[ INFO ] 2023-12-02 14:27:04 -  ser clicks Register button after entering a Password with characters less than eight 
+[ ERROR] 2023-12-02 14:27:04 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 14:27:04 - User clicks Register button after entering different passwords in Password and Password Confirmation fields 
+[ WARN ] 2023-12-02 14:27:04 - user should able to see an warning message  
+[ INFO ] 2023-12-02 14:27:05 - User clicks Register button after entering  with valid username, password and password confirmation in related textboxes 
+[ INFO ] 2023-12-02 14:27:05 - User  redirected to Home Page of DS Algo 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:27:05 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:28:34 - User open the browser 
+[ INFO ] 2023-12-02 14:28:36 - User enter the url 
+[ INFO ] 2023-12-02 14:28:36 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:28:37 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:29:19 - User open the browser 
+[ INFO ] 2023-12-02 14:29:20 - User enter the url 
+[ INFO ] 2023-12-02 14:29:20 - User is on the first page  
+[ INFO ] 2023-12-02 14:29:20 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 14:29:20 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 14:29:20 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 14:29:20 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 14:29:20 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 14:29:20 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:29:21 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 14:29:21 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:29:51 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:31:26 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:32:26 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:32:57 - User open the browser 
+[ INFO ] 2023-12-02 14:32:57 - User enter the url 
+[ INFO ] 2023-12-02 14:32:57 - User is on the first page  
+[ INFO ] 2023-12-02 14:32:57 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 14:32:57 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 14:32:57 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 14:32:58 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 14:32:58 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 14:32:58 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:32:58 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 14:32:58 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:33:57 - User open the browser 
+[ INFO ] 2023-12-02 14:33:58 - User enter the url 
+[ INFO ] 2023-12-02 14:33:58 - User is on the first page  
+[ INFO ] 2023-12-02 14:33:59 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 14:33:59 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 14:33:59 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 14:33:59 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 14:33:59 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 14:33:59 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:33:59 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 14:33:59 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 14:37:14 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:44:27 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:57:59 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:00 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:58:52 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:58:52 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:59:03 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:03 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 14:59:34 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 14:59:34 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:00:27 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:00:28 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:01:34 - User clicks getstarted button of any 6 DS 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:34 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:01:35 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:02:46 - User open the browser 
+[ INFO ] 2023-12-02 15:02:46 - User enter the url 
+[ INFO ] 2023-12-02 15:02:46 - User is on the first page  
+[ INFO ] 2023-12-02 15:02:48 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 15:02:49 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 15:02:49 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 15:02:49 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 15:02:49 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 15:02:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:02:49 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 15:02:49 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:02:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:49 - User clicks the Sign in link 
+[ INFO ] 2023-12-02 15:02:49 - User is on sign in page 
+[ INFO ] 2023-12-02 15:02:49 - User see Register link 
+[ INFO ] 2023-12-02 15:02:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:49 - User clicks login button without entering any data 
+[ WARN ] 2023-12-02 15:02:49 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:02:49 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:50 - User clicks login button after entering username only 
+[ WARN ] 2023-12-02 15:02:50 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-02 15:02:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:50 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-02 15:02:50 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:02:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:50 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-02 15:02:50 - The user sees an error message  
+[ INFO ] 2023-12-02 15:02:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:50 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-02 15:02:50 - The user sees an error message  
+[ INFO ] 2023-12-02 15:02:50 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:51 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-02 15:02:51 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:02:51 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:02:51 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-02 15:02:51 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-02 15:02:51 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:02:51 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-02 15:02:51 - User is on the DS page 
+[ INFO ] 2023-12-02 15:02:52 - User clicks Time Complexity link 
+[ INFO ] 2023-12-02 15:02:52 - User is on  Time Complexity page 
+[ INFO ] 2023-12-02 15:02:52 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:02:52 - User is on the Python Editor 
+[ INFO ] 2023-12-02 15:03:12 - User open the browser 
+[ INFO ] 2023-12-02 15:03:12 - User enter the url 
+[ INFO ] 2023-12-02 15:03:12 - User is on the first page  
+[ INFO ] 2023-12-02 15:03:13 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 15:03:13 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 15:03:13 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 15:03:13 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 15:03:13 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 15:03:13 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:03:13 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 15:03:13 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:03:14 - User clicks register link 
+[ INFO ] 2023-12-02 15:03:14 - User is on the registration page  
+[ INFO ] 2023-12-02 15:03:14 - User sees Login link on the page  
+[ INFO ] 2023-12-02 15:03:14 - User  clicks Register button with all fields empty  
+[ INFO ] 2023-12-02 15:03:14 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 15:03:14 - User  clicks Register button after entering Username with other fields empty  
+[ INFO ] 2023-12-02 15:03:14 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 15:03:14 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-02 15:03:14 - user does not find any practice problems 
+[ INFO ] 2023-12-02 15:03:14 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:03:15 - User  clicks Register button after entering Username  and password with Password Confirmation field empty 
+[ INFO ] 2023-12-02 15:03:15 - The tooltip message appears below Username textbox  
+[ INFO ] 2023-12-02 15:03:15 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-02 15:03:15 - User is on the Array page 
+[ INFO ] 2023-12-02 15:03:15 - User clicks Register button after entering a username with spacebar characters other than digits and special char  
+[ ERROR] 2023-12-02 15:03:15 - The user is not able to see error msg after entering invalid data 
+[ ERROR] 2023-12-02 15:03:15 - User redirected to empty password textbox after entering only numeric data in pwd text box 
+[ INFO ] 2023-12-02 15:03:15 -  User clicks Register button after entering a password with numeric data 
+[ ERROR] 2023-12-02 15:03:15 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 15:03:15 -  User redirected to empty password confirmation textbox 
+[ INFO ] 2023-12-02 15:03:15 -  ser clicks Register button after entering a Password with characters less than eight 
+[ ERROR] 2023-12-02 15:03:15 - The user is not able to see error msg after entering invalid data 
+[ INFO ] 2023-12-02 15:03:16 - User clicks Register button after entering different passwords in Password and Password Confirmation fields 
+[ WARN ] 2023-12-02 15:03:16 - user should able to see an warning message  
+[ INFO ] 2023-12-02 15:03:16 - User clicks Register button after entering  with valid username, password and password confirmation in related textboxes 
+[ INFO ] 2023-12-02 15:03:16 - User  redirected to Home Page of DS Algo 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:16 - User clicks the Sign in link 
+[ INFO ] 2023-12-02 15:03:16 - User is on sign in page 
+[ INFO ] 2023-12-02 15:03:16 - User see Register link 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:16 - User clicks login button without entering any data 
+[ WARN ] 2023-12-02 15:03:16 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:16 - User clicks login button after entering username only 
+[ WARN ] 2023-12-02 15:03:16 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-02 15:03:16 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:17 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-02 15:03:17 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:03:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:17 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-02 15:03:17 - The user sees an error message  
+[ INFO ] 2023-12-02 15:03:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:17 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-02 15:03:17 - The user sees an error message  
+[ INFO ] 2023-12-02 15:03:17 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:17 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-02 15:03:17 - User is on - Arrays in Python 
+[ INFO ] 2023-12-02 15:03:17 - User clicks login button after entering valid username and invalid pwd 
+[ INFO ] 2023-12-02 15:03:17 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-02 15:03:17 - User is on Python Editor 
+[ WARN ] 2023-12-02 15:03:17 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:03:18 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:03:18 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-02 15:03:18 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-02 15:03:18 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:03:18 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-02 15:03:18 - User is on the DS page 
+[ INFO ] 2023-12-02 15:03:18 - User clicks Time Complexity link 
+[ INFO ] 2023-12-02 15:03:18 - User is on  Time Complexity page 
+[ INFO ] 2023-12-02 15:03:18 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:03:18 - User is on the Python Editor 
+[ INFO ] 2023-12-02 15:03:22 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-02 15:03:22 - user does not find any practice problems 
+[ INFO ] 2023-12-02 15:03:22 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:03:22 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-02 15:03:22 - User is on the Array page 
+[ INFO ] 2023-12-02 15:03:22 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-02 15:03:22 - User is on - Arrays in Python 
+[ INFO ] 2023-12-02 15:03:22 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-02 15:03:22 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:03:24 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-02 15:03:24 - User is on Arrays Using List 
+[ INFO ] 2023-12-02 15:03:24 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-02 15:03:24 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:03:26 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-02 15:03:26 - User is on Basic Operations page 
+[ INFO ] 2023-12-02 15:03:26 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-02 15:03:26 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:03:28 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-02 15:03:28 - User is on Applications of Array page 
+[ INFO ] 2023-12-02 15:03:28 - User clicks Practice Questions link 
+[ INFO ] 2023-12-02 15:03:29 - User is on practice page 
+[ INFO ] 2023-12-02 15:03:29 - User clicks array  link 
+[ INFO ] 2023-12-02 15:03:29 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:03:31 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-02 15:03:31 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:03:33 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-02 15:03:33 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:03:34 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-02 15:03:34 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:03:40 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-02 15:03:40 - User is on Arrays Using List 
+[ INFO ] 2023-12-02 15:03:40 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-02 15:03:40 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:04:02 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-02 15:04:02 - User is on Basic Operations page 
+[ INFO ] 2023-12-02 15:04:02 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-02 15:04:02 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:04:23 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-02 15:04:23 - User is on Applications of Array page 
+[ INFO ] 2023-12-02 15:04:24 - User clicks Practice Questions link 
+[ INFO ] 2023-12-02 15:04:24 - User is on practice page 
+[ INFO ] 2023-12-02 15:04:26 - User clicks array  link 
+[ INFO ] 2023-12-02 15:04:26 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:04:48 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-02 15:04:48 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:02 - User open the browser 
+[ INFO ] 2023-12-02 15:05:02 - User enter the url 
+[ INFO ] 2023-12-02 15:05:02 - User is on the first page  
+[ INFO ] 2023-12-02 15:05:02 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-02 15:05:02 - User is on the intro page of DS 
+[ INFO ] 2023-12-02 15:05:03 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-02 15:05:03 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-02 15:05:03 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-02 15:05:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:05:03 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-02 15:05:03 - User sees an warning message for signing in 
+[ INFO ] 2023-12-02 15:05:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:03 - User clicks the Sign in link 
+[ INFO ] 2023-12-02 15:05:03 - User is on sign in page 
+[ INFO ] 2023-12-02 15:05:03 - User see Register link 
+[ INFO ] 2023-12-02 15:05:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:03 - User clicks login button without entering any data 
+[ WARN ] 2023-12-02 15:05:03 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:05:03 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:04 - User clicks login button after entering username only 
+[ WARN ] 2023-12-02 15:05:04 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-02 15:05:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:04 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-02 15:05:04 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:05:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:04 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-02 15:05:04 - The user sees an error message  
+[ INFO ] 2023-12-02 15:05:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:04 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-02 15:05:04 - The user sees an error message  
+[ INFO ] 2023-12-02 15:05:04 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:05 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-02 15:05:05 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-02 15:05:05 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-02 15:05:05 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-02 15:05:05 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-02 15:05:05 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:05:05 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-02 15:05:05 - User is on the DS page 
+[ INFO ] 2023-12-02 15:05:06 - User clicks Time Complexity link 
+[ INFO ] 2023-12-02 15:05:06 - User is on  Time Complexity page 
+[ INFO ] 2023-12-02 15:05:06 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-02 15:05:06 - User is on the Python Editor 
+[ INFO ] 2023-12-02 15:05:08 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-02 15:05:08 - user does not find any practice problems 
+[ INFO ] 2023-12-02 15:05:08 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-02 15:05:09 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-02 15:05:09 - User is on the Array page 
+[ INFO ] 2023-12-02 15:05:09 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-02 15:05:09 - User is on - Arrays in Python 
+[ INFO ] 2023-12-02 15:05:09 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-02 15:05:09 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:05:10 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-02 15:05:10 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:11 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-02 15:05:11 - User is on Arrays Using List 
+[ INFO ] 2023-12-02 15:05:11 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-02 15:05:11 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:05:13 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-02 15:05:13 - User is on Basic Operations page 
+[ INFO ] 2023-12-02 15:05:13 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-02 15:05:13 - User is on Python Editor 
+[ INFO ] 2023-12-02 15:05:14 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-02 15:05:14 - User is on Applications of Array page 
+[ INFO ] 2023-12-02 15:05:14 - User clicks Practice Questions link 
+[ INFO ] 2023-12-02 15:05:15 - User is on practice page 
+[ INFO ] 2023-12-02 15:05:15 - User clicks array  link 
+[ INFO ] 2023-12-02 15:05:15 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:17 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-02 15:05:17 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:18 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-02 15:05:18 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:20 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-02 15:05:20 - User is on Python Editor page 
+[ INFO ] 2023-12-02 15:05:32 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-02 15:05:32 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:32:42 - User open the browser 
+[ INFO ] 2023-12-03 11:32:42 - User enter the url 
+[ INFO ] 2023-12-03 11:32:43 - User is on the first page  
+[ INFO ] 2023-12-03 11:32:43 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-03 11:32:43 - User is on the intro page of DS 
+[ INFO ] 2023-12-03 11:32:43 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-03 11:32:43 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-03 11:32:43 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-03 11:32:44 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:32:44 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-03 11:32:44 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:32:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:44 - User clicks the Sign in link 
+[ INFO ] 2023-12-03 11:32:44 - User is on sign in page 
+[ INFO ] 2023-12-03 11:32:44 - User see Register link 
+[ INFO ] 2023-12-03 11:32:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:44 - User clicks login button without entering any data 
+[ WARN ] 2023-12-03 11:32:44 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:32:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:44 - User clicks login button after entering username only 
+[ WARN ] 2023-12-03 11:32:44 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-03 11:32:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:44 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-03 11:32:44 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:32:44 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:45 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-03 11:32:45 - The user sees an error message  
+[ INFO ] 2023-12-03 11:32:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:45 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:32:45 - The user sees an error message  
+[ INFO ] 2023-12-03 11:32:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:45 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:32:45 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:32:45 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:32:46 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-03 11:32:46 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-03 11:32:46 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:32:46 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-03 11:32:46 - User is on the DS page 
+[ INFO ] 2023-12-03 11:32:46 - User clicks Time Complexity link 
+[ INFO ] 2023-12-03 11:32:46 - User is on  Time Complexity page 
+[ INFO ] 2023-12-03 11:32:46 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-03 11:32:46 - User is on the Python Editor 
+[ INFO ] 2023-12-03 11:32:50 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-03 11:32:50 - user does not find any practice problems 
+[ INFO ] 2023-12-03 11:32:50 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:32:50 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-03 11:32:50 - User is on the Array page 
+[ INFO ] 2023-12-03 11:32:51 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-03 11:32:51 - User is on - Arrays in Python 
+[ INFO ] 2023-12-03 11:32:51 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-03 11:32:51 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:32:53 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-03 11:32:53 - User is on Arrays Using List 
+[ INFO ] 2023-12-03 11:32:53 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-03 11:32:53 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:32:56 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-03 11:32:56 - User is on Basic Operations page 
+[ INFO ] 2023-12-03 11:32:56 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-03 11:32:56 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:32:58 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-03 11:32:58 - User is on Applications of Array page 
+[ INFO ] 2023-12-03 11:32:58 - User clicks Practice Questions link 
+[ INFO ] 2023-12-03 11:32:58 - User is on practice page 
+[ INFO ] 2023-12-03 11:32:58 - User clicks array  link 
+[ INFO ] 2023-12-03 11:32:59 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:33:01 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-03 11:33:01 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:33:03 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-03 11:33:03 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:33:05 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-03 11:33:05 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:35:06 - User open the browser 
+[ INFO ] 2023-12-03 11:35:06 - User enter the url 
+[ INFO ] 2023-12-03 11:35:06 - User is on the first page  
+[ INFO ] 2023-12-03 11:35:06 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-03 11:35:06 - User is on the intro page of DS 
+[ INFO ] 2023-12-03 11:35:07 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-03 11:35:07 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-03 11:35:07 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-03 11:35:07 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:35:07 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-03 11:35:07 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:35:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:07 - User clicks the Sign in link 
+[ INFO ] 2023-12-03 11:35:07 - User is on sign in page 
+[ INFO ] 2023-12-03 11:35:07 - User see Register link 
+[ INFO ] 2023-12-03 11:35:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:07 - User clicks login button without entering any data 
+[ WARN ] 2023-12-03 11:35:07 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:35:07 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:08 - User clicks login button after entering username only 
+[ WARN ] 2023-12-03 11:35:08 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-03 11:35:08 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:08 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-03 11:35:08 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:35:08 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:08 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-03 11:35:08 - The user sees an error message  
+[ INFO ] 2023-12-03 11:35:08 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:08 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:35:08 - The user sees an error message  
+[ INFO ] 2023-12-03 11:35:08 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:09 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:35:09 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:35:09 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:35:10 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-03 11:35:10 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-03 11:35:10 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:35:10 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-03 11:35:10 - User is on the DS page 
+[ INFO ] 2023-12-03 11:35:10 - User clicks Time Complexity link 
+[ INFO ] 2023-12-03 11:35:10 - User is on  Time Complexity page 
+[ INFO ] 2023-12-03 11:35:10 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-03 11:35:10 - User is on the Python Editor 
+[ INFO ] 2023-12-03 11:35:14 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-03 11:35:14 - user does not find any practice problems 
+[ INFO ] 2023-12-03 11:35:14 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:35:14 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-03 11:35:14 - User is on the Array page 
+[ INFO ] 2023-12-03 11:35:14 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-03 11:35:14 - User is on - Arrays in Python 
+[ INFO ] 2023-12-03 11:35:15 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-03 11:35:15 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:35:17 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-03 11:35:17 - User is on Arrays Using List 
+[ INFO ] 2023-12-03 11:35:17 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-03 11:35:17 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:35:19 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-03 11:35:19 - User is on Basic Operations page 
+[ INFO ] 2023-12-03 11:35:19 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-03 11:35:19 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:35:21 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-03 11:35:21 - User is on Applications of Array page 
+[ INFO ] 2023-12-03 11:35:21 - User clicks Practice Questions link 
+[ INFO ] 2023-12-03 11:35:22 - User is on practice page 
+[ INFO ] 2023-12-03 11:35:22 - User clicks array  link 
+[ INFO ] 2023-12-03 11:35:22 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:35:24 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-03 11:35:24 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:35:26 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-03 11:35:26 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:35:28 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-03 11:35:28 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:52:34 - User open the browser 
+[ INFO ] 2023-12-03 11:52:34 - User enter the url 
+[ INFO ] 2023-12-03 11:52:34 - User is on the first page  
+[ INFO ] 2023-12-03 11:52:37 - User clicks getstarted button of First page 
+[ INFO ] 2023-12-03 11:52:37 - User is on the intro page of DS 
+[ INFO ] 2023-12-03 11:52:37 - User clicks the dropdown of Data Structure 
+[ INFO ] 2023-12-03 11:52:37 - User can see 6 options in dropdown 
+[ INFO ] 2023-12-03 11:52:37 - User click any option of dropdown without sign in 
+[ WARN ] 2023-12-03 11:52:37 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:52:37 - User clicks getstarted button of any 6 DS 
+[ WARN ] 2023-12-03 11:52:37 - User sees an warning message for signing in 
+[ INFO ] 2023-12-03 11:52:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:37 - User clicks the Sign in link 
+[ INFO ] 2023-12-03 11:52:37 - User is on sign in page 
+[ INFO ] 2023-12-03 11:52:37 - User see Register link 
+[ INFO ] 2023-12-03 11:52:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:37 - User clicks login button without entering any data 
+[ WARN ] 2023-12-03 11:52:37 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:52:37 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:37 - User clicks login button after entering username only 
+[ WARN ] 2023-12-03 11:52:38 - The error message appears below Pwd textbox 
+[ INFO ] 2023-12-03 11:52:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:38 - User clicks login btn after entering pwd 
+[ WARN ] 2023-12-03 11:52:38 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:52:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:38 - User clicks login button after entering invalid  and invalid data 
+[ WARN ] 2023-12-03 11:52:38 - The user sees an error message  
+[ INFO ] 2023-12-03 11:52:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:38 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:52:38 - The user sees an error message  
+[ INFO ] 2023-12-03 11:52:38 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:39 - User clicks login button after entering valid username and invalid pwd 
+[ WARN ] 2023-12-03 11:52:39 - The user sees an error message below Username textbox 
+[ INFO ] 2023-12-03 11:52:39 - User is on the DS Algo Introduction Page 
+[ INFO ] 2023-12-03 11:52:39 - User clicks login button after entering invalid  and valid data 
+[ INFO ] 2023-12-03 11:52:39 - The user is on Data Structure Home Page 
+[ INFO ] 2023-12-03 11:52:39 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:52:39 - User clicks  Get Started button of DS 
+[ INFO ] 2023-12-03 11:52:39 - User is on the DS page 
+[ INFO ] 2023-12-03 11:52:39 - User clicks Time Complexity link 
+[ INFO ] 2023-12-03 11:52:39 - User is on  Time Complexity page 
+[ INFO ] 2023-12-03 11:52:39 - User clicks Try Here  button of Time Complexity page 
+[ INFO ] 2023-12-03 11:52:39 - User is on the Python Editor 
+[ INFO ] 2023-12-03 11:52:42 - User clicks Practice Questions link of DS 
+[ ERROR] 2023-12-03 11:52:42 - user does not find any practice problems 
+[ INFO ] 2023-12-03 11:52:42 - User is on the DS Algo Home Page 
+[ INFO ] 2023-12-03 11:52:43 - User clicks  Get Started button below the array 
+[ INFO ] 2023-12-03 11:52:43 - User is on the Array page 
+[ INFO ] 2023-12-03 11:52:43 - User clicks - Arrays in Python link 
+[ INFO ] 2023-12-03 11:52:43 - User is on - Arrays in Python 
+[ INFO ] 2023-12-03 11:52:43 - User clicks Try Here button of Array in Python Page 
+[ INFO ] 2023-12-03 11:52:43 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:52:45 - User clicks Arrays Using List link 
+[ INFO ] 2023-12-03 11:52:45 - User is on Arrays Using List 
+[ INFO ] 2023-12-03 11:52:45 - User clicks  Try Here button of Array Using List 
+[ INFO ] 2023-12-03 11:52:45 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:52:46 - User clicks  a Basic Operations in Lists  
+[ INFO ] 2023-12-03 11:52:46 - User is on Basic Operations page 
+[ INFO ] 2023-12-03 11:52:47 - User clicks  Try Here button of Operations in Lists 
+[ INFO ] 2023-12-03 11:52:47 - User is on Python Editor 
+[ INFO ] 2023-12-03 11:52:48 - User clicks an Applications of Array link 
+[ INFO ] 2023-12-03 11:52:48 - User is on Applications of Array page 
+[ INFO ] 2023-12-03 11:52:48 - User clicks Practice Questions link 
+[ INFO ] 2023-12-03 11:52:49 - User is on practice page 
+[ INFO ] 2023-12-03 11:52:49 - User clicks array  link 
+[ INFO ] 2023-12-03 11:52:49 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:52:50 - User clicks Max consecutive ones  link 
+[ INFO ] 2023-12-03 11:52:50 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:52:52 - User clicks Find numbers with even number of digits link 
+[ INFO ] 2023-12-03 11:52:52 - User is on Python Editor page 
+[ INFO ] 2023-12-03 11:52:53 - User clicks squared of the sorted array link 
+[ INFO ] 2023-12-03 11:52:53 - User is on Python Editor page 

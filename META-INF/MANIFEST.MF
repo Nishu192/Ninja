@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DS_AlgoCh
+Bundle-SymbolicName: DS_AlgoCh
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-19
+Automatic-Module-Name: DS.AlgoCh
+Export-Package: pages,
+ steppDef
+Import-Package: junit.framework
