@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="33.35" tests="62" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="29.12" tests="62" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-19\bin"/>
-    <property name="sun.java.command" value="C:\Users\enggn\AppData\Local\Temp\surefire6473076932636384558\surefirebooter-20231203233709771_3.jar C:\Users\enggn\AppData\Local\Temp\surefire6473076932636384558 2023-12-03T23-37-09_619-jvmRun1 surefire-20231203233709771_1tmp surefire_0-20231203233709771_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\enggn\AppData\Local\Temp\surefire17922123915579422396\surefirebooter-20231204001710069_3.jar C:\Users\enggn\AppData\Local\Temp\surefire17922123915579422396 2023-12-04T00-17-09_929-jvmRun1 surefire-20231204001710069_1tmp surefire_0-20231204001710069_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\enggn\eclipse-workspace\DS_AlgoCh\target\test-classes;C:\Users\enggn\eclipse-workspace\DS_AlgoCh\target\classes;C:\Users\enggn\.m2\repository\org\slf4j\slf4j-api\2.0.9\slf4j-api-2.0.9.jar;C:\Users\enggn\.m2\repository\org\slf4j\slf4j-simple\2.0.9\slf4j-simple-2.0.9.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.9.1\extentreports-cucumber7-adapter-1.9.1.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\extent-pdf-report\2.9.1\extent-pdf-report-2.9.1.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.11.1\cucumber-pdf-report-2.11.1.jar;C:\Users\enggn\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\enggn\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\enggn\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\enggn\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\enggn\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\enggn\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\enggn\.m2\repository\org\yaml\snakeyaml\1.28\snakeyaml-1.28.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.4.1\rest-assured-cucumber-pdf-report-1.4.1.jar;C:\Users\enggn\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\enggn\.m2\repository\com\aventstack\klov-reporter\5.0.9\klov-reporter-5.0.9.jar;C:\Users\enggn\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\enggn\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\enggn\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\enggn\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\enggn\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\enggn\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\enggn\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\enggn\.m2\repository\tech\grasshopper\htmlextentreporter\1.0.1\htmlextentreporter-1.0.1.jar;C:\Users\enggn\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar;C:\Users\enggn\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\enggn\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\enggn\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\enggn\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\enggn\.m2\repository\com\google\code\gson\gson\2.8.6\gson-2.8.6.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-testng\7.14.0\cucumber-testng-7.14.0.jar;C:\Users\enggn\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\enggn\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\enggn\.m2\repository\com\sitture\cucumber-jvm-extentreport\3.0.7\cucumber-jvm-extentreport-3.0.7.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-java\4.15.0\selenium-java-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-api\4.15.0\selenium-api-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.15.0\selenium-chrome-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.15.0\selenium-chromium-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-json\4.15.0\selenium-json-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.15.0\selenium-manager-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v117\4.15.0\selenium-devtools-v117-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v118\4.15.0\selenium-devtools-v118-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v119\4.15.0\selenium-devtools-v119-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.15.0\selenium-devtools-v85-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.15.0\selenium-edge-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.15.0\selenium-firefox-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-http\4.15.0\selenium-http-4.15.0.jar;C:\Users\enggn\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.15.0\selenium-ie-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.15.0\selenium-remote-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\com\google\guava\guava\32.1.2-jre\guava-32.1.2-jre.jar;C:\Users\enggn\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\enggn\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\enggn\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\enggn\.m2\repository\org\checkerframework\checker-qual\3.33.0\checker-qual-3.33.0.jar;C:\Users\enggn\.m2\repository\com\google\errorprone\error_prone_annotations\2.18.0\error_prone_annotations-2.18.0.jar;C:\Users\enggn\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-api\1.28.0\opentelemetry-api-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-context\1.28.0\opentelemetry-context-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.28.0\opentelemetry-exporter-logging-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.28.0\opentelemetry-sdk-metrics-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.28.0-alpha\opentelemetry-extension-incubator-1.28.0-alpha.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.28.0\opentelemetry-sdk-logs-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.28.0\opentelemetry-sdk-common-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.28.0\opentelemetry-sdk-extension-autoconfigure-spi-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.28.0\opentelemetry-sdk-extension-autoconfigure-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.28.0-alpha\opentelemetry-api-events-1.28.0-alpha.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.28.0\opentelemetry-sdk-trace-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.28.0\opentelemetry-sdk-1.28.0.jar;C:\Users\enggn\.m2\repository\io\opentelemetry\opentelemetry-semconv\1.28.0-alpha\opentelemetry-semconv-1.28.0-alpha.jar;C:\Users\enggn\.m2\repository\net\bytebuddy\byte-buddy\1.14.5\byte-buddy-1.14.5.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-os\4.15.0\selenium-os-4.15.0.jar;C:\Users\enggn\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.15.0\selenium-safari-driver-4.15.0.jar;C:\Users\enggn\.m2\repository\org\seleniumhq\selenium\selenium-support\4.15.0\selenium-support-4.15.0.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\enggn\.m2\repository\org\apache\poi\poi\5.2.4\poi-5.2.4.jar;C:\Users\enggn\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\enggn\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\enggn\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\enggn\.m2\repository\commons-io\commons-io\2.13.0\commons-io-2.13.0.jar;C:\Users\enggn\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\enggn\.m2\repository\org\apache\poi\poi-ooxml\5.2.4\poi-ooxml-5.2.4.jar;C:\Users\enggn\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.4\poi-ooxml-lite-5.2.4.jar;C:\Users\enggn\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\enggn\.m2\repository\org\apache\commons\commons-compress\1.24.0\commons-compress-1.24.0.jar;C:\Users\enggn\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\enggn\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\enggn\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\enggn\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\enggn\.m2\repository\io\cucumber\cucumber-junit\7.14.0\cucumber-junit-7.14.0.jar;C:\Users\enggn\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\enggn\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\enggn\.m2\repository\org\apache\logging\log4j\log4j-api\3.0.0-alpha1\log4j-api-3.0.0-alpha1.jar;C:\Users\enggn\.m2\repository\org\apache\logging\log4j\log4j-core\3.0.0-alpha1\log4j-core-3.0.0-alpha1.jar;C:\Users\enggn\.m2\repository\org\apache\logging\log4j\log4j-plugins\3.0.0-alpha1\log4j-plugins-3.0.0-alpha1.jar;C:\Users\enggn\.m2\repository\javax\activation\javax.activation-api\1.2.0\javax.activation-api-1.2.0.jar;C:\Users\enggn\.m2\repository\javax\xml\bind\jaxb-api\2.3.1\jaxb-api-2.3.1.jar;C:\Users\enggn\.m2\repository\com\fasterxml\woodstox\woodstox-core\6.5.0\woodstox-core-6.5.0.jar;C:\Users\enggn\.m2\repository\org\codehaus\woodstox\stax2-api\4.2.1\stax2-api-4.2.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\enggn\AppData\Local\Temp\surefire6473076932636384558\surefirebooter-20231203233709771_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\enggn\AppData\Local\Temp\surefire17922123915579422396\surefirebooter-20231204001710069_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="19.0.2+7-44"/>
@@ -50,7 +50,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\enggn\Downloads\WINDOWS.X64_193000_db_home\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;:\Program Files\Java\jdk-19;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Git\cmd;C:\Users\enggn\OneDrive\Desktop\Ajay\bin;C:\Users\enggn\OneDrive\Desktop\Ajay\apache-maven-3.9.1;C:\Users\enggn\OneDrive\Desktop\Selenium\apache-maven-3.8.8\bin;C:\Users\enggn\AppData\Local\Programs\Python\Python311\Scripts;C:\jdk-21.0.1;C:\Users\enggn\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\enggn\AppData\Local\Programs\Python\Python311\;C:\Users\enggn\AppData\Local\Microsoft\WindowsApps;:\Program Files\Java\jdk-19;C:\Program Files\Java\jdk-19\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\enggn\Downloads\WINDOWS.X64_193000_db_home\bin;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\HP\NV\lib\shunra\vcat;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files (x86)\HP\Unified Functional Testing\bin;C:\Program Files (x86)\HP\LoadRunner\strawberry-perl\perl\bin;C:\Program Files (x86)\HP\NV\lib\thirdparty\safenet\LDK\7.0;C:\Program Files (x86)\HP\NV\lib\shunra\snv;:\Program Files\Java\jdk-19;C:\Program Files\Java\jdk-19\bin;C:\Program Files\Git\cmd;C:\Users\enggn\OneDrive\Desktop\Ajay\bin;C:\Users\enggn\OneDrive\Desktop\Ajay\apache-maven-3.9.1;C:\Users\enggn\OneDrive\Desktop\Selenium\apache-maven-3.8.8\bin;C:\Users\enggn\AppData\Local\Programs\Python\Python311\Scripts;C:\jdk-21.0.1;C:\Users\enggn\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\enggn\AppData\Local\Programs\Python\Python311\;C:\Users\enggn\AppData\Local\Microsoft\WindowsApps;."/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="stderr.encoding" value="Cp1252"/>
     <property name="java.vendor" value="Oracle Corporation"/>
@@ -58,7 +58,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Browser page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](1)" classname="testRunner.runnertestng" time="4.169">
+  <testcase name="runScenario[&quot;Browser page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](1)" classname="testRunner.runnertestng" time="3.418">
     <system-out><![CDATA[
 @dsIntro @Browser_page
 Scenario Outline: Browser page                                                                          &amp#27;[90m# src/test/resources/feature/01_dsIntro.feature:12&amp#27;[0m
@@ -73,7 +73,7 @@ User is on the first page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Get Started page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](2)" classname="testRunner.runnertestng" time="0.411">
+  <testcase name="runScenario[&quot;DS Algo Get Started page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](2)" classname="testRunner.runnertestng" time="0.442">
     <system-out><![CDATA[
 @dsIntro @Start_page
 Scenario: DS Algo Get Started page                                                                  &amp#27;[90m# src/test/resources/feature/01_dsIntro.feature:15&amp#27;[0m
@@ -89,7 +89,7 @@ User is on the intro page of DS
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](3)" classname="testRunner.runnertestng" time="0.119">
+  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](3)" classname="testRunner.runnertestng" time="0.606">
     <system-out><![CDATA[
 @dsIntro @Intro_page
 Scenario: DS Introduction page                                                                            &amp#27;[90m# src/test/resources/feature/01_dsIntro.feature:21&amp#27;[0m
@@ -108,7 +108,7 @@ User can see 6 options in dropdown
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](4)" classname="testRunner.runnertestng" time="0.249">
+  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](4)" classname="testRunner.runnertestng" time="0.265">
     <system-out><![CDATA[
 @dsIntro
 Scenario: DS Introduction page                                                       &amp#27;[90m# src/test/resources/feature/01_dsIntro.feature:26&amp#27;[0m
@@ -122,7 +122,7 @@ User sees an warning message for signing in
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](5)" classname="testRunner.runnertestng" time="0.046">
+  <testcase name="runScenario[&quot;DS Introduction page&quot;, &quot;To Automate Introduction page of DS_Algo&quot;](5)" classname="testRunner.runnertestng" time="0.047">
     <system-out><![CDATA[
 @dsIntro
 Scenario: DS Introduction page                                                                   &amp#27;[90m# src/test/resources/feature/01_dsIntro.feature:31&amp#27;[0m
@@ -136,7 +136,7 @@ User sees an warning message for signing in
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](6)" classname="testRunner.runnertestng" time="0.191">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](6)" classname="testRunner.runnertestng" time="0.156">
     <system-out><![CDATA[
 @Signin_page(link)
 Scenario: DS Algo Introduction Page                                  &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:7&amp#27;[0m
@@ -154,7 +154,7 @@ User see Register link
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](7)" classname="testRunner.runnertestng" time="0.129">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](7)" classname="testRunner.runnertestng" time="0.118">
     <system-out><![CDATA[
 @Signin_page(allBlank)
 Scenario Outline: DS Algo Introduction Page                                           &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:19&amp#27;[0m
@@ -169,7 +169,7 @@ The user sees an error message below Username textbox
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](8)" classname="testRunner.runnertestng" time="0.256">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](8)" classname="testRunner.runnertestng" time="0.223">
     <system-out><![CDATA[
 @Signin_page(enteronlyusername)
 Scenario Outline: DS Algo Introduction Page                                                              &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:28&amp#27;[0m
@@ -184,7 +184,7 @@ The error message appears below Pwd textbox
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](9)" classname="testRunner.runnertestng" time="0.166">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](9)" classname="testRunner.runnertestng" time="0.143">
     <system-out><![CDATA[
 @Signin_page(enteronlypwd)
 Scenario Outline: DS Algo Introduction Page                                           &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:37&amp#27;[0m
@@ -199,7 +199,7 @@ The user sees an error message below Username textbox
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](10)" classname="testRunner.runnertestng" time="0.336">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](10)" classname="testRunner.runnertestng" time="0.333">
     <system-out><![CDATA[
 @Signin_page(invalidusernamePwd)
 Scenario Outline: DS Algo Introduction Page                                                              &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:46&amp#27;[0m
@@ -214,7 +214,7 @@ The user sees an error message
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](11)" classname="testRunner.runnertestng" time="0.146">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](11)" classname="testRunner.runnertestng" time="0.15">
     <system-out><![CDATA[
 @Signin_page(validUsernameinvalidPassword)
 Scenario Outline: DS Algo Introduction Page                                                   &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:55&amp#27;[0m
@@ -229,7 +229,7 @@ The user sees an error message
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](12)" classname="testRunner.runnertestng" time="0.315">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](12)" classname="testRunner.runnertestng" time="0.308">
     <system-out><![CDATA[
 @Signin_page(validUsernameInvPwd)
 Scenario Outline: DS Algo Introduction Page                                                                &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:64&amp#27;[0m
@@ -244,7 +244,7 @@ The user sees an error message below Username textbox
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](13)" classname="testRunner.runnertestng" time="0.494">
+  <testcase name="runScenario[&quot;DS Algo Introduction Page&quot;, &quot;to automate Signin page of DS_Algo&quot;](13)" classname="testRunner.runnertestng" time="0.456">
     <system-out><![CDATA[
 @Signin_page(valid)
 Scenario Outline: DS Algo Introduction Page                                                                &amp#27;[90m# src/test/resources/feature/03_dsSignin.feature:73&amp#27;[0m
@@ -260,7 +260,7 @@ The user is on Data Structure Home Page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Home Page&quot;, &quot;To Automate the page of Array&quot;](14)" classname="testRunner.runnertestng" time="0.197">
+  <testcase name="runScenario[&quot;Home Page&quot;, &quot;To Automate the page of Array&quot;](14)" classname="testRunner.runnertestng" time="0.258">
     <system-out><![CDATA[
 @HomePage
 Scenario: Home Page                                                               &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:4&amp#27;[0m
@@ -290,7 +290,7 @@ User is on  Time Complexity page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Time Complexity Page&quot;, &quot;To Automate the page of Array&quot;](16)" classname="testRunner.runnertestng" time="0.029">
+  <testcase name="runScenario[&quot;Time Complexity Page&quot;, &quot;To Automate the page of Array&quot;](16)" classname="testRunner.runnertestng" time="0.031">
     <system-out><![CDATA[
 @ComplexityPage
 Scenario: Time Complexity Page                                         &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:16&amp#27;[0m
@@ -304,7 +304,7 @@ User is on the Python Editor
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](17)" classname="testRunner.runnertestng" time="0.639">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](17)" classname="testRunner.runnertestng" time="0.622">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:22&amp#27;[0m
@@ -318,7 +318,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](18)" classname="testRunner.runnertestng" time="1.212">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](18)" classname="testRunner.runnertestng" time="1.35">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:36&amp#27;[0m
@@ -333,7 +333,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](19)" classname="testRunner.runnertestng" time="0.525">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](19)" classname="testRunner.runnertestng" time="0.445">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:47&amp#27;[0m
@@ -350,7 +350,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](20)" classname="testRunner.runnertestng" time="0.15">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](20)" classname="testRunner.runnertestng" time="0.133">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:49&amp#27;[0m
 =================START SCENARIO===================================================
@@ -363,7 +363,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Time Complexity Page&quot;, &quot;To Automate the page of Array&quot;](21)" classname="testRunner.runnertestng" time="0.245">
+  <testcase name="runScenario[&quot;Time Complexity Page&quot;, &quot;To Automate the page of Array&quot;](21)" classname="testRunner.runnertestng" time="0.207">
     <system-out><![CDATA[
 @PracticeQuestions
 Scenario: Time Complexity Page                                           &amp#27;[90m# src/test/resources/feature/04_dsDataStructInt.feature:55&amp#27;[0m
@@ -377,7 +377,7 @@ user does not find any practice problems
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Home Page&quot;, &quot;To Automate the page of Array&quot;](22)" classname="testRunner.runnertestng" time="0.245">
+  <testcase name="runScenario[&quot;Home Page&quot;, &quot;To Automate the page of Array&quot;](22)" classname="testRunner.runnertestng" time="0.223">
     <system-out><![CDATA[
 @Array_page
 Scenario: Home Page                                          &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:4&amp#27;[0m
@@ -393,7 +393,7 @@ User is on the Array page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Array Page&quot;, &quot;To Automate the page of Array&quot;](23)" classname="testRunner.runnertestng" time="0.25">
+  <testcase name="runScenario[&quot;Array Page&quot;, &quot;To Automate the page of Array&quot;](23)" classname="testRunner.runnertestng" time="0.322">
     <system-out><![CDATA[
 @ArraysInPythonPage
 Scenario: Array Page                                               &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:10&amp#27;[0m
@@ -407,7 +407,7 @@ User is on - Arrays in Python
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Array Page&quot;, &quot;To Automate the page of Array&quot;](24)" classname="testRunner.runnertestng" time="0.184">
+  <testcase name="runScenario[&quot;Array Page&quot;, &quot;To Automate the page of Array&quot;](24)" classname="testRunner.runnertestng" time="0.171">
     <system-out><![CDATA[
 @PythonEditor
 Scenario: Array Page                                                                                                            &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:16&amp#27;[0m
@@ -422,7 +422,7 @@ User is on Python Editor
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](25)" classname="testRunner.runnertestng" time="0.347">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](25)" classname="testRunner.runnertestng" time="0.315">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:22&amp#27;[0m
@@ -436,7 +436,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](26)" classname="testRunner.runnertestng" time="0.485">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](26)" classname="testRunner.runnertestng" time="0.483">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:36&amp#27;[0m
@@ -451,7 +451,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](27)" classname="testRunner.runnertestng" time="0.452">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](27)" classname="testRunner.runnertestng" time="0.458">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:47&amp#27;[0m
@@ -468,7 +468,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](28)" classname="testRunner.runnertestng" time="0.222">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](28)" classname="testRunner.runnertestng" time="0.154">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:49&amp#27;[0m
 =================START SCENARIO===================================================
@@ -481,7 +481,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Array in Python Page&quot;, &quot;To Automate the page of Array&quot;](29)" classname="testRunner.runnertestng" time="0.172">
+  <testcase name="runScenario[&quot;Array in Python Page&quot;, &quot;To Automate the page of Array&quot;](29)" classname="testRunner.runnertestng" time="0.209">
     <system-out><![CDATA[
 @ArraysUsingList_page
 Scenario: Array in Python Page                                       &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:55&amp#27;[0m
@@ -495,7 +495,7 @@ User is on Arrays Using List
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Array Using List Page&quot;, &quot;To Automate the page of Array&quot;](30)" classname="testRunner.runnertestng" time="0.169">
+  <testcase name="runScenario[&quot;Array Using List Page&quot;, &quot;To Automate the page of Array&quot;](30)" classname="testRunner.runnertestng" time="0.155">
     <system-out><![CDATA[
 @PythonEditor
 Scenario: Array Using List Page                                                                                                 &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:61&amp#27;[0m
@@ -509,7 +509,7 @@ User is on Python Editor
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](31)" classname="testRunner.runnertestng" time="0.329">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](31)" classname="testRunner.runnertestng" time="0.333">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:67&amp#27;[0m
@@ -523,7 +523,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](32)" classname="testRunner.runnertestng" time="0.471">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](32)" classname="testRunner.runnertestng" time="0.448">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:81&amp#27;[0m
@@ -538,7 +538,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](33)" classname="testRunner.runnertestng" time="0.41">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](33)" classname="testRunner.runnertestng" time="0.401">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:92&amp#27;[0m
@@ -555,7 +555,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](34)" classname="testRunner.runnertestng" time="0.13">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](34)" classname="testRunner.runnertestng" time="0.141">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:94&amp#27;[0m
 =================START SCENARIO===================================================
@@ -568,7 +568,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Array Using List Page&quot;, &quot;To Automate the page of Array&quot;](35)" classname="testRunner.runnertestng" time="0.196">
+  <testcase name="runScenario[&quot;Array Using List Page&quot;, &quot;To Automate the page of Array&quot;](35)" classname="testRunner.runnertestng" time="0.212">
     <system-out><![CDATA[
 @ArraysBasicOperation_page
 Scenario: Array Using List Page                                              &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:100&amp#27;[0m
@@ -582,7 +582,7 @@ User is on Basic Operations page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Basic operations in Lists page&quot;, &quot;To Automate the page of Array&quot;](36)" classname="testRunner.runnertestng" time="0.162">
+  <testcase name="runScenario[&quot;Basic operations in Lists page&quot;, &quot;To Automate the page of Array&quot;](36)" classname="testRunner.runnertestng" time="0.173">
     <system-out><![CDATA[
 @ArraysBasicOperation_Tryhere
 Scenario: Basic operations in Lists page                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:106&amp#27;[0m
@@ -596,7 +596,7 @@ User is on Python Editor
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](37)" classname="testRunner.runnertestng" time="0.348">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](37)" classname="testRunner.runnertestng" time="0.317">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:112&amp#27;[0m
@@ -610,7 +610,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](38)" classname="testRunner.runnertestng" time="0.46">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](38)" classname="testRunner.runnertestng" time="0.42">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:126&amp#27;[0m
@@ -625,7 +625,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](39)" classname="testRunner.runnertestng" time="0.43">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](39)" classname="testRunner.runnertestng" time="0.398">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:137&amp#27;[0m
@@ -642,7 +642,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](40)" classname="testRunner.runnertestng" time="0.13">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](40)" classname="testRunner.runnertestng" time="0.132">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:139&amp#27;[0m
 =================START SCENARIO===================================================
@@ -655,7 +655,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Basic operations in Lists page&quot;, &quot;To Automate the page of Array&quot;](41)" classname="testRunner.runnertestng" time="0.157">
+  <testcase name="runScenario[&quot;Basic operations in Lists page&quot;, &quot;To Automate the page of Array&quot;](41)" classname="testRunner.runnertestng" time="0.181">
     <system-out><![CDATA[
 @AppOfArray
 Scenario: Basic operations in Lists page                                 &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:145&amp#27;[0m
@@ -669,7 +669,7 @@ User is on Applications of Array page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Application of Array page&quot;, &quot;To Automate the page of Array&quot;](42)" classname="testRunner.runnertestng" time="0.21">
+  <testcase name="runScenario[&quot;Application of Array page&quot;, &quot;To Automate the page of Array&quot;](42)" classname="testRunner.runnertestng" time="0.2">
     <system-out><![CDATA[
 @AppOfArray_4Links
 Scenario: Application of Array page                                                                                                                                                      &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:151&amp#27;[0m
@@ -686,7 +686,7 @@ User is on practice page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](43)" classname="testRunner.runnertestng" time="0.202">
+  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](43)" classname="testRunner.runnertestng" time="0.245">
     <system-out><![CDATA[
 @PythonEditor
 Scenario: Practice Questions page                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:157&amp#27;[0m
@@ -700,7 +700,7 @@ User is on Python Editor page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](44)" classname="testRunner.runnertestng" time="0.315">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](44)" classname="testRunner.runnertestng" time="0.333">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:163&amp#27;[0m
@@ -714,7 +714,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](45)" classname="testRunner.runnertestng" time="0.41">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](45)" classname="testRunner.runnertestng" time="0.415">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:177&amp#27;[0m
@@ -729,7 +729,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](46)" classname="testRunner.runnertestng" time="0.524">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](46)" classname="testRunner.runnertestng" time="0.452">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:188&amp#27;[0m
@@ -746,7 +746,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](47)" classname="testRunner.runnertestng" time="0.185">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](47)" classname="testRunner.runnertestng" time="0.354">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:190&amp#27;[0m
 =================START SCENARIO===================================================
@@ -759,7 +759,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](48)" classname="testRunner.runnertestng" time="0.251">
+  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](48)" classname="testRunner.runnertestng" time="0.21">
     <system-out><![CDATA[
 @PythonEditor
 Scenario: Practice Questions page                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:196&amp#27;[0m
@@ -773,7 +773,7 @@ User is on Python Editor page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](49)" classname="testRunner.runnertestng" time="0.323">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](49)" classname="testRunner.runnertestng" time="0.525">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:202&amp#27;[0m
@@ -787,7 +787,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](50)" classname="testRunner.runnertestng" time="0.446">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](50)" classname="testRunner.runnertestng" time="0.437">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:216&amp#27;[0m
@@ -802,7 +802,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](51)" classname="testRunner.runnertestng" time="0.415">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](51)" classname="testRunner.runnertestng" time="0.45">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:227&amp#27;[0m
@@ -819,7 +819,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](52)" classname="testRunner.runnertestng" time="0.138">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](52)" classname="testRunner.runnertestng" time="0.148">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:229&amp#27;[0m
 =================START SCENARIO===================================================
@@ -832,7 +832,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](53)" classname="testRunner.runnertestng" time="0.198">
+  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](53)" classname="testRunner.runnertestng" time="0.197">
     <system-out><![CDATA[
 @PythonEditor
 Scenario: Practice Questions page                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:235&amp#27;[0m
@@ -846,7 +846,7 @@ User is on Python Editor page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](54)" classname="testRunner.runnertestng" time="0.33">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](54)" classname="testRunner.runnertestng" time="0.311">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:241&amp#27;[0m
@@ -860,7 +860,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](55)" classname="testRunner.runnertestng" time="0.42">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](55)" classname="testRunner.runnertestng" time="0.401">
     <system-out><![CDATA[
 @PythonEditor_Invalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:255&amp#27;[0m
@@ -875,7 +875,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](56)" classname="testRunner.runnertestng" time="0.42">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](56)" classname="testRunner.runnertestng" time="0.385">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:266&amp#27;[0m
@@ -892,7 +892,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](57)" classname="testRunner.runnertestng" time="0.155">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](57)" classname="testRunner.runnertestng" time="0.129">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:268&amp#27;[0m
 =================START SCENARIO===================================================
@@ -905,7 +905,7 @@ Console screen containing output is displayed and user go to the previous page.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](58)" classname="testRunner.runnertestng" time="0.223">
+  <testcase name="runScenario[&quot;Practice Questions page&quot;, &quot;To Automate the page of Array&quot;](58)" classname="testRunner.runnertestng" time="0.203">
     <system-out><![CDATA[
 @PythonEdito
 Scenario: Practice Questions page                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:274&amp#27;[0m
@@ -919,7 +919,7 @@ User is on Python Editor page
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](59)" classname="testRunner.runnertestng" time="0.341">
+  <testcase name="runScenario[&quot;Python Editor page without data&quot;, &quot;To Automate the page of Array&quot;](59)" classname="testRunner.runnertestng" time="0.321">
     <system-out><![CDATA[
 @PythonEditor_Blank
 Scenario: Python Editor page without data                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:280&amp#27;[0m
@@ -933,7 +933,7 @@ No error message is displayed on the page.Raise as a BUG.
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](60)" classname="testRunner.runnertestng" time="0.561">
+  <testcase name="runScenario[&quot;Python Editor page with Invalid data&quot;, &quot;To Automate the page of Array&quot;](60)" classname="testRunner.runnertestng" time="0.379">
     <system-out><![CDATA[
 @PythonEditor_Inalid
 Scenario Outline: Python Editor page with Invalid data                                                                                        &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:294&amp#27;[0m
@@ -948,7 +948,7 @@ User clicks run button
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](61)" classname="testRunner.runnertestng" time="0.551">
+  <testcase name="runScenario[&quot;Python Editor page with valid data&quot;, &quot;To Automate the page of Array&quot;](61)" classname="testRunner.runnertestng" time="0.423">
     <system-out><![CDATA[
 @PythonEditor_Valid
 Scenario Outline: Python Editor page with valid data                                                                                    &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:305&amp#27;[0m
@@ -965,7 +965,7 @@ The User able to see result in the console: 10
 ==================END SCENARIO====================================================
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](62)" classname="testRunner.runnertestng" time="0.187">
+  <testcase name="runScenario[&quot;User go back to the previous page&quot;, &quot;To Automate the page of Array&quot;](62)" classname="testRunner.runnertestng" time="0.152">
     <system-out><![CDATA[
 Scenario: User go back to the previous page   &amp#27;[90m# src/test/resources/feature/05_dsArray.feature:307&amp#27;[0m
 =================START SCENARIO===================================================
