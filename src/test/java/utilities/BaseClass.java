@@ -76,14 +76,10 @@ public class BaseClass {
     public static  WebDriver getDriver() {
         return driver;
     }
-//    public static void setUpDriver() {
-//        if (Base==null) {
-//        	Base = new BaseClass();
-//        }
-//    }
+
     public static void navigateToUrl(String url) {
     	driver.navigate().to(url);
-    	//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+    	
     }
      public static void tearDown() {
          if(driver!=null) {
@@ -94,6 +90,6 @@ public class BaseClass {
      }
      public static void HomePage() {
      	driver.navigate().to("https://dsportalapp.herokuapp.com/array/");
-     	//driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+     	
      }
 }

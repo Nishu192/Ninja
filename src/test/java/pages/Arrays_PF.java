@@ -2,14 +2,21 @@ package pages;
 //import org.openqa.selenium.Keys;
 
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
+import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 public class Arrays_PF {
 	
-	private  WebDriver driver;
+WebDriver driver;
+	DSTryhere_PF th;
 	@FindBy(xpath="//a[text()=\"Arrays in Python\"]") WebElement lnk_arraysInPython ;
 	@FindBy(xpath="//a[text()=\"Arrays Using List\"]") WebElement lnk_arraysUsingList ;
 	@FindBy(xpath="//div[2]/div/div[2]/strong/p") WebElement txt_arraysUsingListTitle ;
@@ -30,7 +37,8 @@ public class Arrays_PF {
 @FindBy(xpath="//a[text()=\"Find Numbers with Even Number of Digits\"]") WebElement lnk_arraysEvennumbers ;
 @FindBy(xpath="//a[text()=\"Squares of  a Sorted Array\"]") WebElement lnk_arraysSortedSquares ;
 @FindBy(xpath="//button[text()=\"Run\"]") WebElement btn_arrays_run ;
-@FindBy(xpath="//input[@value=\"Submit\"]") WebElement btn_arrays_submit ;
+@FindBy(xpath="//*[@id=\"answer_form\"]/input[2]") WebElement btn_arrays_submit ;
+@FindBy(xpath="//*[@id=\"output\"]") WebElement consoleSubOutput;
 @FindBy(xpath="//form[@id=\"answer_form\"]/../div") WebElement  txt_arrays_errormsg;
 @FindBy(xpath="//h4[text()=\"Array\"]") WebElement txt_Array;
 
@@ -39,6 +47,31 @@ public Arrays_PF (WebDriver driver) {
 this.driver=driver;
 	PageFactory.initElements(driver,this);
 }
+
+public void clickSubmitbtn()  {
+	
+	btn_arrays_submit.click();
+
+}
+public String getErrorSubmitMsg() throws InterruptedException {
+//	  WebDriverWait wait = new WebDriverWait(driver,30);
+//	wait.until(ExpectedConditions.visibilityOf(consoleSubOutput));
+	
+//	Actions action = new Actions(driver);
+//    WebDriverWait wait = new WebDriverWait(driver,10);
+//    wait.pollingEvery(2);
+//
+//    WebElement newBomBtn = driver.findElement((By) consoleSubOutput);
+//    wait.until(ExpectedConditions.visibilityOf(consoleOutput));
+//    action.moveToElement(newBomBtn).click().build().perform();
+	
+	Thread.sleep(5000);
+	String emg= consoleSubOutput.getText();
+	System.out.println("The user able to see warning message: "+emg);
+	return emg;
+}
+
+
 public String gettxtQuestionTitle() {
 	String msg=txt_Question.getText();
 	System.out.println("The user able to see Title: "+msg);
@@ -229,3 +262,4 @@ public void clickArraysEvennumbers() {
 }
 
 }
+

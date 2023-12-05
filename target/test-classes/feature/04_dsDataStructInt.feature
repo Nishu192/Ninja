@@ -1,4 +1,4 @@
-Feature: To Automate the page of Array
+Feature: To Automate the page of DataStructure
 
   @HomePage
   Scenario: Home Page

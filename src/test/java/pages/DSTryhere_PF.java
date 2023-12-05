@@ -2,6 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebDriver;
 
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -81,7 +82,7 @@ public class DSTryhere_PF extends BaseClass {
 		if(txt_codeEditor.isDisplayed())
 		{
 				Actions action=new Actions(driver);
-				action.sendKeys(txt_codeEditor,"").perform();
+				action.sendKeys(txt_codeEditor," ").perform();
 							
 		}
 	}
@@ -92,13 +93,14 @@ public class DSTryhere_PF extends BaseClass {
 	}
 	
 	
-	public void getConsoleOutput() {
+	public String getConsoleOutput() {
 		String output=outputConsole.getText();
 		System.out.println("The User able to see result in the console: "+output);
+		return output;
 	}
 
 	public void clickTryhere() {
-		// TODO Auto-generated method stub
+		
 		
 	}
 	

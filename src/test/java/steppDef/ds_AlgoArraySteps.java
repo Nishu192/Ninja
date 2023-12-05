@@ -1,11 +1,16 @@
 package steppDef;
 import io.cucumber.java.en.Given;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 import pages.Arrays_PF;
+import pages.DSTryhere_PF;
 import pages.HomePage_PF;
 import utilities.BaseClass;
 import utilities.LoggerLoad;
@@ -14,7 +19,7 @@ public class ds_AlgoArraySteps extends BaseClass {
 
 	HomePage_PF hp;
 	Arrays_PF ap;
-	
+	DSTryhere_PF th;
 	
 	
 	@When("The user clicks  {string} button below the array")
@@ -237,6 +242,29 @@ public class ds_AlgoArraySteps extends BaseClass {
 	    LoggerLoad.info("User is on Linked List page");
 	}
 
+	@Given("The user is already on Python Editor page")
+	public void the_user_is_already_on_python_editor_page() {
+	th=	new DSTryhere_PF(BaseClass.getDriver());
+		ap=new Arrays_PF(BaseClass.getDriver());
+	}
 
+	
+	
+
+	@When("User clicks the submit button int try editor")
+	public void user_clicks_the_submit_button_int_try_editor() {
+	   ap.clickSubmitbtn();
+	   
+	}
+
+
+
+	@Then("User gets an warning message {string} in the console")
+	public void user_gets_an_warning_message_in_the_console(String ExpErMsg) throws InterruptedException {
+		 
+			
+		String ActErMsg= ap.getErrorSubmitMsg(); 
+		  Assert.assertEquals(ActErMsg,ExpErMsg);
+	}
 
 }

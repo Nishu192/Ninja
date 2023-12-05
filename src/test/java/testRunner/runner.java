@@ -12,12 +12,11 @@ import io.cucumber.junit.CucumberOptions;
 		glue = {"steppDef","appHook"},
 		//tags="@dsIntro",
 		tags= "not @NotrunReg",
-	   
 		//monochrome= true,
-		
 		plugin={"pretty","html:target/HtmlReport/report.html",
-				"json:target/JSONReport/report.json",
+				"json:target/JSonReport/report.json",
 				"junit:target/JUnitReport/report.xml",
+				"io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 				
 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})		
 		public class runner extends AbstractTestNGCucumberTests{

@@ -15,9 +15,7 @@ import io.cucumber.testng.*;
 	   
 		//monochrome= true,
 		
-		plugin={"pretty","html:target/HtmlReport/report.html",
-				"json:target/JSONReport/report.json",
-				"junit:target/JUnitReport/report.xml",
+		plugin={"pretty","io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm",
 				
 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"})		
 		public class runnertestng extends AbstractTestNGCucumberTests{

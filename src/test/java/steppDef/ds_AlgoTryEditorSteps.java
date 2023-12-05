@@ -43,7 +43,7 @@ public class ds_AlgoTryEditorSteps {
 	public void output_should_be_displayed_on_the_console() {
 		 System.out.println("Console screen containing output is displayed.");  
 		 tryEditor.getConsoleOutput();
-		// tryEditor.clearEditor();
+		//tryEditor.clearEditor();
 	}
 //=======================================================================================================================================================	
 	//For Blank editor on tryEditor page
@@ -51,8 +51,8 @@ public class ds_AlgoTryEditorSteps {
 	@Given("The user is on tryEditor page")
 	public void the_user_is_on_try_editor_page() {
 		System.out.println("Inside step-The user is on the editor page.");
-		tryEditor= new DSTryhere_PF (BaseClass.getDriver());
-		BaseClass.openPage("https://dsportalapp.herokuapp.com/tryEditor");
+	tryEditor= new DSTryhere_PF (BaseClass.getDriver());
+	BaseClass.openPage("https://dsportalapp.herokuapp.com/tryEditor");
 	}
 
 	@When("The user clicks the run button without entring the code in the Editor")

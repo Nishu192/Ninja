@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuite name="Cucumber" time="22.366" tests="62" skipped="0" failures="0" errors="0">
-<testcase classname="To Automate Introduction page of DS_Algo" name="Browser page - Example #1.1" time="3.317">
+<testsuite name="Cucumber" time="39.146" tests="63" skipped="0" failures="0" errors="0">
+<testcase classname="To Automate Introduction page of DS_Algo" name="Browser page - Example #1.1" time="5.966">
 <system-out><![CDATA[
 Given The user should be open the browser...................................passed
 When The user enter the DS_Algo Portal https://dsportalapp.herokuapp.com/...passed
 Then The user should landed on the DS_Algo Get Started page with message "You are at the right place".passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate Introduction page of DS_Algo" name="DS Algo Get Started page" time="0.424">
+<testcase classname="To Automate Introduction page of DS_Algo" name="DS Algo Get Started page" time="2.553">
 <system-out><![CDATA[
 Given The user should open the DS Algo Portal URL in any supported browser..passed
 When The user clicks the Get Started button.................................passed
 Then The user should land in Data Structure Introduction Page with "Register" and "Sign in" links.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.601">
+<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.172">
 <system-out><![CDATA[
 Given The user is on the DS Introduction page...............................passed
 When The user clicks the data structure dropdown  arrow.....................passed
 Then The user should able to see 6 options Arrays "Linked,List,Stack,Queue,Tree,Graph" in dropdown menu.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.248">
+<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.268">
 <system-out><![CDATA[
 Given The user is on the DS Introduction page...............................passed
 When The user selects any data structures item from the drop down without Sign in..passed
 Then The user should able to see an warning message "You are not logged in".passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.025">
+<testcase classname="To Automate Introduction page of DS_Algo" name="DS Introduction page" time="0.058">
 <system-out><![CDATA[
 Given The user is on the DS Introduction page...............................passed
 When The user clicks any "Get Started" buttons of data structures  on the DS Introduction page.passed
 Then The user should able to see an warning message "You are not logged in".passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page" time="0.151">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page" time="0.229">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user should click the Sign in link.................................passed
@@ -43,84 +43,84 @@ Then The user should be redirected to Sign in page..........................pass
 And The user is able to see "Register!" link  below the text boxes..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.103">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.158">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after leaving the "" textbox and "" textbox blank.passed
 Then The error message "Please fill out this field." appears below Username textbox.passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.208">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.256">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering the "Trioteamchallengers" and leaves "" textbox blank.passed
 Then The error message "Please fill out this field." appears below Pwd textbox.passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.127">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.204">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering the "ds@qateam334h" only...passed
 Then The error message "Please fill out this field." appears below Username textbox.passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.324">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.449">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering invalid "teamchallengers" and invalid "ds@qateam334h".passed
 Then The user should able to see an error message "Invalid Username and Password"..passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.141">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.317">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering valid "Trioteamchallengers" and invalid "".passed
 Then The user should able to see an error message "Invalid Username and Password"..passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.3">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.407">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering valid "Trioteamchallengers" and invalid "ds@qateam334h".passed
 Then The error message "Please fill out this field." appears below Username textbox.passed
 ]]></system-out>
 </testcase>
-<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.44">
+<testcase classname="to automate Signin page of DS_Algo" name="DS Algo Introduction Page - Example #1.1" time="0.695">
 <system-out><![CDATA[
 Given The user is on the DS Algo Introduction Page..........................passed
 When The user clicks login button after entering valid "Trioteamchallengers" and valid "triothebest@123".passed
 Then The user should land in Data Structure Home Page with "You are logged in" message.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Home Page" time="0.255">
+<testcase classname="To Automate the page of DataStructure" name="Home Page" time="0.358">
 <system-out><![CDATA[
 Given The user is on the DS Algo Home Page..................................passed
 When The user clicks  Get Started button below the Data structures-Introduction.passed
 Then The user should land in "Data Structures-Introduction" DS page.........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Data Structure Home page" time="0.163">
+<testcase classname="To Automate the page of DataStructure" name="Data Structure Home page" time="0.254">
 <system-out><![CDATA[
 Given The user is on the Data Structure Introduction Page...................passed
 When The user clicks Time Complexity link...................................passed
 Then The user should be redirected to "Time Complexity" TC page.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Time Complexity Page" time="0.015">
+<testcase classname="To Automate the page of DataStructure" name="Time Complexity Page" time="0.031">
 <system-out><![CDATA[
 Given The user is on the Time Complexity Page...............................passed
 When The user clicks Try Here  button of Time Complexity page...............passed
 Then The user should be redirected to a page having an Python Editor........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.623">
+<testcase classname="To Automate the page of DataStructure" name="Python Editor page without data" time="0.702">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="1.345">
+<testcase classname="To Automate the page of DataStructure" name="Python Editor page with Invalid data - Example #1.1" time="1.803">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -128,7 +128,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.44">
+<testcase classname="To Automate the page of DataStructure" name="Python Editor page with valid data - Example #1.1" time="0.604">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -136,49 +136,49 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.127">
+<testcase classname="To Automate the page of DataStructure" name="User go back to the previous page" time="0.156">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Time Complexity Page" time="0.194">
+<testcase classname="To Automate the page of DataStructure" name="Time Complexity Page" time="0.267">
 <system-out><![CDATA[
 Given The user is on the Time Complexity Page...............................passed
 When The user clicks Practice Questions link of DS..........................passed
 Then The user does not find any practice problems and the page is null......passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Home Page" time="0.207">
+<testcase classname="To Automate the page of Array" name="Home Page" time="0.33">
 <system-out><![CDATA[
 Given The user is on the DS Algo Home Page..................................passed
 When The user clicks  "Get Started" button below the array..................passed
 Then The user should be redirected to "Array" page..........................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Array Page" time="0.317">
+<testcase classname="To Automate the page of Array" name="Array Page" time="0.458">
 <system-out><![CDATA[
 Given The  user is on the Array  page.......................................passed
 When The user clicks a Arrays in Python link................................passed
 Then The user should be redirected to "Arrays in Python" AP Page............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Array Page" time="0.164">
+<testcase classname="To Automate the page of Array" name="Array Page" time="0.376">
 <system-out><![CDATA[
 Given The  user is on the Array  page.......................................passed
 When The user clicks Try Here button of Array in Python Page................passed
 Then The user should be redirected to a page having an Python Editor with a url "https://dsportalapp.herokuapp.com/tryEditor".passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.307">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.396">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.477">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.553">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -186,7 +186,51 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.444">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.487">
+<system-out><![CDATA[
+Given The user is on the tryEditor page.....................................passed
+And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
+When User clicks a run button...............................................passed
+Then output should be displayed on the console..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.149">
+<system-out><![CDATA[
+Given The user is already on tryEditor page.................................passed
+When User able to see output in console.....................................passed
+Then User go back to the previous page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="Array in Python Page" time="0.236">
+<system-out><![CDATA[
+Given The user is on the Array in Python Page...............................passed
+When The user clicks a Arrays Using List link...............................passed
+Then The user should be redirected to "Arrays Using List" AL page...........passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="Array Using List Page" time="0.221">
+<system-out><![CDATA[
+Given The  user is on the Array  Using List page............................passed
+When The user clicks Try Here button of Array Using List Page...............passed
+Then The user should be redirected to a page having an Python Editor with a url "https://dsportalapp.herokuapp.com/tryEditor".passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.365">
+<system-out><![CDATA[
+Given The user is on tryEditor page.........................................passed
+When The user clicks the run button without entring the code in the Editor..passed
+Then Nothing happens to the page and no error message is displayed..........passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.526">
+<system-out><![CDATA[
+Given User is on the tryEditor page.........................................passed
+And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
+When The User clicks a run button...........................................passed
+Then The user see error msg in alert window and press ok button.............passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.521">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -201,72 +245,28 @@ When User able to see output in console.....................................pass
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Array in Python Page" time="0.197">
-<system-out><![CDATA[
-Given The user is on the Array in Python Page...............................passed
-When The user clicks a Arrays Using List link...............................passed
-Then The user should be redirected to "Arrays Using List" AL page...........passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="Array Using List Page" time="0.149">
-<system-out><![CDATA[
-Given The  user is on the Array  Using List page............................passed
-When The user clicks Try Here button of Array Using List Page...............passed
-Then The user should be redirected to a page having an Python Editor with a url "https://dsportalapp.herokuapp.com/tryEditor".passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.329">
-<system-out><![CDATA[
-Given The user is on tryEditor page.........................................passed
-When The user clicks the run button without entring the code in the Editor..passed
-Then Nothing happens to the page and no error message is displayed..........passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.442">
-<system-out><![CDATA[
-Given User is on the tryEditor page.........................................passed
-And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
-When The User clicks a run button...........................................passed
-Then The user see error msg in alert window and press ok button.............passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.395">
-<system-out><![CDATA[
-Given The user is on the tryEditor page.....................................passed
-And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
-When User clicks a run button...............................................passed
-Then output should be displayed on the console..............................passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.134">
-<system-out><![CDATA[
-Given The user is already on tryEditor page.................................passed
-When User able to see output in console.....................................passed
-Then User go back to the previous page......................................passed
-]]></system-out>
-</testcase>
-<testcase classname="To Automate the page of Array" name="Array Using List Page" time="0.195">
+<testcase classname="To Automate the page of Array" name="Array Using List Page" time="0.213">
 <system-out><![CDATA[
 Given The  user is on the Array  Using List page............................passed
 When The user clicks a Basic Operations in Lists  link......................passed
 Then The user should be redirected to "Basic Operations in Lists" BO page...passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Basic operations in Lists page" time="0.169">
+<testcase classname="To Automate the page of Array" name="Basic operations in Lists page" time="0.197">
 <system-out><![CDATA[
 Given The  user is on the  Basic Operations in Lists   page.................passed
 When The user clicks Try Here button of Operations in Lists Page............passed
 Then The user should be redirected to a page having an Python Editor with a url "https://dsportalapp.herokuapp.com/tryEditor".passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.315">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.348">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.418">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.595">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -274,7 +274,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.391">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.604">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -282,42 +282,42 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.125">
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.238">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Basic operations in Lists page" time="0.175">
+<testcase classname="To Automate the page of Array" name="Basic operations in Lists page" time="0.231">
 <system-out><![CDATA[
 Given The  user is on the  Basic Operations in Lists   page.................passed
 When The user clicks an Applications of Array link..........................passed
 Then The user should be redirected to "Applications of Array" AA page.......passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Application of Array page" time="0.192">
+<testcase classname="To Automate the page of Array" name="Application of Array page" time="0.381">
 <system-out><![CDATA[
 Given The  user is on the  Applications of Array page.......................passed
 When The user clicks Practice Questions link................................passed
 Then The user should be redirected to practice page having links like "Search the array","Max Consecutive Ones","Find Numbers with Even Number of Digits" ,"Squares of a Sorted Array".passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.243">
+<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.268">
 <system-out><![CDATA[
 Given The user is on Practice page..........................................passed
 When The user clicks search the array  link.................................passed
 Then The user should be redirected to "QUESTION" page contains a question,an tryEditor with Run and Submit buttons.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.331">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.467">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.412">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.519">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -325,7 +325,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.447">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.572">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -333,28 +333,28 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.349">
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.179">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.206">
+<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.33">
 <system-out><![CDATA[
 Given The user is on Practice page..........................................passed
 When The user clicks Max consecutive ones link..............................passed
 Then The user should be redirected to "QUESTION" page contains a question,an tryEditor with Run and Submit buttons.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.521">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.488">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.435">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.556">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -362,7 +362,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.444">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.629">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -370,28 +370,28 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.144">
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.21">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.188">
+<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.308">
 <system-out><![CDATA[
 Given The user is on Practice page..........................................passed
 When The user clicks Find numbers with even number of digits link...........passed
 Then The user should be redirected to "QUESTION" page contains a question,an tryEditor with Run and Submit buttons.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.311">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.436">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.399">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.574">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -399,7 +399,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.381">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.511">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -407,28 +407,28 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.126">
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.186">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.195">
+<testcase classname="To Automate the page of Array" name="Practice Questions page" time="0.275">
 <system-out><![CDATA[
 Given The user is on Practice page..........................................passed
 When The user clicks squared of the sorted array link.......................passed
 Then The user should be redirected to "QUESTION" page contains a question,an tryEditor with Run and Submit buttons.passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.316">
+<testcase classname="To Automate the page of Array" name="Python Editor page without data" time="0.439">
 <system-out><![CDATA[
 Given The user is on tryEditor page.........................................passed
 When The user clicks the run button without entring the code in the Editor..passed
 Then Nothing happens to the page and no error message is displayed..........passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.378">
+<testcase classname="To Automate the page of Array" name="Python Editor page with Invalid data - Example #1.1" time="0.569">
 <system-out><![CDATA[
 Given User is on the tryEditor page.........................................passed
 And enters the data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Invalid_Data" and row_number 2.passed
@@ -436,7 +436,7 @@ When The User clicks a run button...........................................pass
 Then The user see error msg in alert window and press ok button.............passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.415">
+<testcase classname="To Automate the page of Array" name="Python Editor page with valid data - Example #1.1" time="0.634">
 <system-out><![CDATA[
 Given The user is on the tryEditor page.....................................passed
 And enters data in the Editor after reading data from excel sheet "Python_code" with column_name "Python_Valid_Data" and row_number 2.passed
@@ -444,11 +444,18 @@ When User clicks a run button...............................................pass
 Then output should be displayed on the console..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.145">
+<testcase classname="To Automate the page of Array" name="User go back to the previous page" time="0.172">
 <system-out><![CDATA[
 Given The user is already on tryEditor page.................................passed
 When User able to see output in console.....................................passed
 Then User go back to the previous page......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Automate the page of Array" name="User is on Python  editor page" time="5.116">
+<system-out><![CDATA[
+Given The user is already on Python Editor page.............................passed
+When User clicks the submit button int try editor...........................passed
+Then User gets an warning message " No tests were collected" in the console.passed
 ]]></system-out>
 </testcase>
 </testsuite>

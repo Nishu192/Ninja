@@ -282,6 +282,7 @@ Feature: To Automate the page of Array
     When The user clicks the run button without entring the code in the Editor
     Then Nothing happens to the page and no error message is displayed
 
+
   @PythonEditor_Inalid
   Scenario Outline: Python Editor page with Invalid data
     Given User is on the tryEditor page
@@ -308,3 +309,8 @@ Feature: To Automate the page of Array
     Given The user is already on tryEditor page
     When User able to see output in console
     Then User go back to the previous page
+
+  Scenario: User is on Python  editor page
+    Given The user is already on Python Editor page
+    When User clicks the submit button int try editor
+    Then User gets an warning message " No tests were collected" in the console
